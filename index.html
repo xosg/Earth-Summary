@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        p {
+            background-color: black;
+            white-space: nowrap;
+            margin: 5px 0;
+            padding: 2px 5px;
+            position: relative;
+            color: white;
+            font-size: 1.3rem;
+        }
+
+        p::before {
+            content: attr(start);
+            position: absolute;
+            right: 100%;
+            margin-right: 0.5rem;
+            color: #ffffff;
+        }
+
+        body {
+            background-color: #009e8a;
+            margin-left: 70px;
+            padding-right: 200px;
+            background-image: repeating-linear-gradient(90deg, transparent 0, transparent 149px, #00000040 149px, #00000030 150px);
+            width: fit-content;
+        }
+
+        h1 {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+        }
+    </style>
+    <script>
+        fetch('political-entity.json').then(r => r.json()).then(data => {
+            console.log(data.length);
+            data = data.slice(100)
+            data.forEach(nation => {
+                const [name, name_zh, start, end] = nation;
+                // console.log(`Name: ${name}, Name (ZH): ${name_zh}, Start: ${start}, End: ${end}`);
+                document.body.innerHTML +=
+                    `<p start=${start} end=${end} style="
+                            width:${(end - start) * 2.5}px; 
+                            margin-left: ${(start - data[0][2]) * 3}px
+                            "> ${name_zh}
+                    </p>`;
+            });
+            window.speedX = 2;
+            document.onkeydown = (async e => {
+                if (e.key === "Enter") {
+                    const elements = [...document.querySelectorAll('p')];
+                    for (let i = 0; i < elements.length; i += 20) {
+                        await new Promise(resolve => setTimeout(resolve, 3000));
+                        const { top, left } = elements[i].getBoundingClientRect();
+                        window.scrollBy({
+                            top: top,
+                            left: left,
+                            behavior: 'smooth'
+                        });
+                    }
+
+                }
+            })
+        });
+    </script>
+</head>
+
+<body>
+
+    <h1>
+        史前国家时间为：
+        <br>
+        统计的平均值
+    </h1>
+</body>
+
+
+
+</html>
