@@ -26,7 +26,7 @@
 
 
 
-// insert 26**3 empty placeholders
+// firstly insert 26**3 empty placeholders
 // let letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 // const docs =
 //     Array.from({ length: 26 ** 3 }).map((a, i) => {
