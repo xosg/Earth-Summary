@@ -10959,2694 +10959,2694 @@ QFK,Quest For Knowledge
 QFL,Will you send up pyrotechnical Lights?
 QFM,Quest For Madness
 QFN,Quad Flat No-lead package
-QFO,
-QFP,
-QFQ,
-QFR,
-QFS,
-QFT,
-QFU,
-QFV,
-QFW,
-QFX,
-QFY,
-QFZ,
-QGA,
-QGB,
-QGC,
-QGD,
-QGE,
-QGF,
-QGG,
-QGH,
-QGI,
-QGJ,
-QGK,
-QGL,
-QGM,
-QGN,
-QGO,
-QGP,
-QGQ,
-QGR,
-QGS,
-QGT,
-QGU,
-QGV,
-QGW,
-QGX,
-QGY,
-QGZ,
-QHA,
-QHB,
-QHC,
-QHD,
-QHE,
-QHF,
-QHG,
-QHH,
-QHI,
-QHJ,
-QHK,
-QHL,
-QHM,
-QHN,
-QHO,
-QHP,
-QHQ,
-QHR,
-QHS,
-QHT,
-QHU,
-QHV,
-QHW,
-QHX,
-QHY,
-QHZ,
-QIA,
-QIB,
-QIC,
-QID,
-QIE,
-QIF,
-QIG,
-QIH,
-QII,
-QIJ,
-QIK,
-QIL,
-QIM,
-QIN,
-QIO,
-QIP,
-QIQ,
-QIR,
-QIS,
-QIT,
-QIU,
-QIV,
-QIW,
-QIX,
-QIY,
-QIZ,
-QJA,
-QJB,
-QJC,
-QJD,
-QJE,
-QJF,
-QJG,
-QJH,
-QJI,
-QJJ,
-QJK,
-QJL,
-QJM,
-QJN,
-QJO,
-QJP,
-QJQ,
-QJR,
-QJS,
-QJT,
-QJU,
-QJV,
-QJW,
-QJX,
-QJY,
-QJZ,
-QKA,
-QKB,
-QKC,
-QKD,
-QKE,
-QKF,
-QKG,
-QKH,
-QKI,
-QKJ,
-QKK,
-QKL,
-QKM,
-QKN,
-QKO,
-QKP,
-QKQ,
-QKR,
-QKS,
-QKT,
-QKU,
-QKV,
-QKW,
-QKX,
-QKY,
-QKZ,
-QLA,
-QLB,
-QLC,
-QLD,
-QLE,
-QLF,
-QLG,
-QLH,
-QLI,
-QLJ,
-QLK,
-QLL,
-QLM,
-QLN,
-QLO,
-QLP,
-QLQ,
-QLR,
-QLS,
-QLT,
-QLU,
-QLV,
-QLW,
-QLX,
-QLY,
-QLZ,
-QMA,
-QMB,
-QMC,
-QMD,
-QME,
-QMF,
-QMG,
-QMH,
-QMI,
-QMJ,
-QMK,
-QML,
-QMM,
-QMN,
-QMO,
-QMP,
-QMQ,
-QMR,
-QMS,
-QMT,
-QMU,
-QMV,
-QMW,
-QMX,
-QMY,
-QMZ,
-QNA,
-QNB,
-QNC,
-QND,
-QNE,
-QNF,
-QNG,
-QNH,
-QNI,
-QNJ,
-QNK,
-QNL,
-QNM,
-QNN,
-QNO,
-QNP,
-QNQ,
-QNR,
-QNS,
-QNT,
-QNU,
-QNV,
-QNW,
-QNX,
-QNY,
-QNZ,
-QOA,
-QOB,
-QOC,
-QOD,
-QOE,
-QOF,
-QOG,
-QOH,
-QOI,
-QOJ,
-QOK,
-QOL,
-QOM,
-QON,
-QOO,
-QOP,
-QOQ,
-QOR,
-QOS,
-QOT,
-QOU,
-QOV,
-QOW,
-QOX,
-QOY,
-QOZ,
-QPA,
-QPB,
-QPC,
-QPD,
-QPE,
-QPF,
-QPG,
-QPH,
-QPI,
-QPJ,
-QPK,
-QPL,
-QPM,
-QPN,
-QPO,
-QPP,
-QPQ,
-QPR,
-QPS,
-QPT,
-QPU,
-QPV,
-QPW,
-QPX,
-QPY,
-QPZ,
-QQA,
-QQB,
-QQC,
-QQD,
-QQE,
-QQF,
-QQG,
-QQH,
-QQI,
-QQJ,
-QQK,
-QQL,
-QQM,
-QQN,
-QQO,
-QQP,
-QQQ,
-QQR,
-QQS,
-QQT,
-QQU,
-QQV,
-QQW,
-QQX,
-QQY,
-QQZ,
-QRA,
-QRB,
-QRC,
-QRD,
-QRE,
-QRF,
-QRG,
-QRH,
-QRI,
-QRJ,
-QRK,
-QRL,
-QRM,
-QRN,
-QRO,
-QRP,
-QRQ,
-QRR,
-QRS,
-QRT,
-QRU,
-QRV,
-QRW,
-QRX,
-QRY,
-QRZ,
-QSA,
-QSB,
-QSC,
-QSD,
-QSE,
-QSF,
-QSG,
-QSH,
-QSI,
-QSJ,
-QSK,
-QSL,
-QSM,
-QSN,
-QSO,
-QSP,
-QSQ,
-QSR,
-QSS,
-QST,
-QSU,
-QSV,
-QSW,
-QSX,
-QSY,
-QSZ,
-QTA,
-QTB,
-QTC,
-QTD,
-QTE,
-QTF,
-QTG,
-QTH,
-QTI,
-QTJ,
-QTK,
-QTL,
-QTM,
-QTN,
-QTO,
-QTP,
-QTQ,
-QTR,
-QTS,
-QTT,
-QTU,
-QTV,
-QTW,
-QTX,
-QTY,
-QTZ,
-QUA,
-QUB,
-QUC,
-QUD,
-QUE,
-QUF,
-QUG,
-QUH,
-QUI,
-QUJ,
-QUK,
-QUL,
-QUM,
-QUN,
-QUO,
-QUP,
-QUQ,
-QUR,
-QUS,
-QUT,
-QUU,
-QUV,
-QUW,
-QUX,
-QUY,
-QUZ,
-QVA,
-QVB,
-QVC,
-QVD,
-QVE,
-QVF,
-QVG,
-QVH,
-QVI,
-QVJ,
-QVK,
-QVL,
-QVM,
-QVN,
-QVO,
-QVP,
-QVQ,
-QVR,
-QVS,
-QVT,
-QVU,
-QVV,
-QVW,
-QVX,
-QVY,
-QVZ,
-QWA,
-QWB,
-QWC,
-QWD,
-QWE,
-QWF,
-QWG,
-QWH,
-QWI,
-QWJ,
-QWK,
-QWL,
-QWM,
-QWN,
-QWO,
-QWP,
-QWQ,
-QWR,
-QWS,
-QWT,
-QWU,
-QWV,
-QWW,
-QWX,
-QWY,
-QWZ,
-QXA,
-QXB,
-QXC,
-QXD,
-QXE,
-QXF,
-QXG,
-QXH,
-QXI,
-QXJ,
-QXK,
-QXL,
-QXM,
-QXN,
-QXO,
-QXP,
-QXQ,
-QXR,
-QXS,
-QXT,
-QXU,
-QXV,
-QXW,
-QXX,
-QXY,
-QXZ,
-QYA,
-QYB,
-QYC,
-QYD,
-QYE,
-QYF,
-QYG,
-QYH,
-QYI,
-QYJ,
-QYK,
-QYL,
-QYM,
-QYN,
-QYO,
-QYP,
-QYQ,
-QYR,
-QYS,
-QYT,
-QYU,
-QYV,
-QYW,
-QYX,
-QYY,
-QYZ,
-QZA,
-QZB,
-QZC,
-QZD,
-QZE,
-QZF,
-QZG,
-QZH,
-QZI,
-QZJ,
-QZK,
-QZL,
-QZM,
-QZN,
-QZO,
-QZP,
-QZQ,
-QZR,
-QZS,
-QZT,
-QZU,
-QZV,
-QZW,
-QZX,
-QZY,
-QZZ,
-RAA,
-RAB,
-RAC,
-RAD,
-RAE,
-RAF,
-RAG,
-RAH,
-RAI,
-RAJ,
-RAK,
-RAL,
-RAM,
-RAN,
-RAO,
-RAP,
-RAQ,
-RAR,
-RAS,
-RAT,
-RAU,
-RAV,
-RAW,
-RAX,
-RAY,
-RAZ,
-RBA,
-RBB,
-RBC,
-RBD,
-RBE,
-RBF,
-RBG,
-RBH,
-RBI,
-RBJ,
-RBK,
-RBL,
-RBM,
-RBN,
-RBO,
-RBP,
-RBQ,
-RBR,
-RBS,
-RBT,
-RBU,
-RBV,
-RBW,
-RBX,
-RBY,
-RBZ,
-RCA,
-RCB,
-RCC,
-RCD,
-RCE,
-RCF,
-RCG,
-RCH,
-RCI,
-RCJ,
-RCK,
-RCL,
-RCM,
-RCN,
-RCO,
-RCP,
-RCQ,
-RCR,
-RCS,
-RCT,
-RCU,
-RCV,
-RCW,
-RCX,
-RCY,
-RCZ,
-RDA,
-RDB,
-RDC,
-RDD,
-RDE,
-RDF,
-RDG,
-RDH,
-RDI,
-RDJ,
-RDK,
-RDL,
-RDM,
-RDN,
-RDO,
-RDP,
-RDQ,
-RDR,
-RDS,
-RDT,
-RDU,
-RDV,
-RDW,
-RDX,
-RDY,
-RDZ,
-REA,
-REB,
-REC,
-RED,
-REE,
-REF,
-REG,
-REH,
-REI,
-REJ,
-REK,
-REL,
-REM,
-REN,
-REO,
-REP,
-REQ,
-RER,
-RES,
-RET,
-REU,
-REV,
-REW,
-REX,
-REY,
-REZ,
-RFA,
-RFB,
-RFC,
-RFD,
-RFE,
-RFF,
-RFG,
-RFH,
-RFI,
-RFJ,
-RFK,
-RFL,
-RFM,
-RFN,
-RFO,
-RFP,
-RFQ,
-RFR,
-RFS,
-RFT,
-RFU,
-RFV,
-RFW,
-RFX,
-RFY,
-RFZ,
-RGA,
-RGB,
-RGC,
-RGD,
-RGE,
-RGF,
-RGG,
-RGH,
-RGI,
-RGJ,
-RGK,
-RGL,
-RGM,
-RGN,
-RGO,
-RGP,
-RGQ,
-RGR,
-RGS,
-RGT,
-RGU,
-RGV,
-RGW,
-RGX,
-RGY,
-RGZ,
-RHA,
-RHB,
-RHC,
-RHD,
-RHE,
-RHF,
-RHG,
-RHH,
-RHI,
-RHJ,
-RHK,
-RHL,
-RHM,
-RHN,
-RHO,
-RHP,
-RHQ,
-RHR,
-RHS,
-RHT,
-RHU,
-RHV,
-RHW,
-RHX,
-RHY,
-RHZ,
-RIA,
-RIB,
-RIC,
-RID,
-RIE,
-RIF,
-RIG,
-RIH,
-RII,
-RIJ,
-RIK,
-RIL,
-RIM,
-RIN,
-RIO,
-RIP,
-RIQ,
-RIR,
-RIS,
-RIT,
-RIU,
-RIV,
-RIW,
-RIX,
-RIY,
-RIZ,
-RJA,
-RJB,
-RJC,
-RJD,
-RJE,
-RJF,
-RJG,
-RJH,
-RJI,
-RJJ,
-RJK,
-RJL,
-RJM,
-RJN,
-RJO,
-RJP,
-RJQ,
-RJR,
-RJS,
-RJT,
-RJU,
-RJV,
-RJW,
-RJX,
-RJY,
-RJZ,
-RKA,
-RKB,
-RKC,
-RKD,
-RKE,
-RKF,
-RKG,
-RKH,
-RKI,
-RKJ,
-RKK,
-RKL,
-RKM,
-RKN,
-RKO,
-RKP,
-RKQ,
-RKR,
-RKS,
-RKT,
-RKU,
-RKV,
-RKW,
-RKX,
-RKY,
-RKZ,
-RLA,
-RLB,
-RLC,
-RLD,
-RLE,
-RLF,
-RLG,
-RLH,
-RLI,
-RLJ,
-RLK,
-RLL,
-RLM,
-RLN,
-RLO,
-RLP,
-RLQ,
-RLR,
-RLS,
-RLT,
-RLU,
-RLV,
-RLW,
-RLX,
-RLY,
-RLZ,
-RMA,
-RMB,
-RMC,
-RMD,
-RME,
-RMF,
-RMG,
-RMH,
-RMI,
-RMJ,
-RMK,
-RML,
-RMM,
-RMN,
-RMO,
-RMP,
-RMQ,
-RMR,
-RMS,
-RMT,
-RMU,
-RMV,
-RMW,
-RMX,
-RMY,
-RMZ,
-RNA,
-RNB,
-RNC,
-RND,
-RNE,
-RNF,
-RNG,
-RNH,
-RNI,
-RNJ,
-RNK,
-RNL,
-RNM,
-RNN,
-RNO,
-RNP,
-RNQ,
-RNR,
-RNS,
-RNT,
-RNU,
-RNV,
-RNW,
-RNX,
-RNY,
-RNZ,
-ROA,
-ROB,
-ROC,
-ROD,
-ROE,
-ROF,
-ROG,
-ROH,
-ROI,
-ROJ,
-ROK,
-ROL,
-ROM,
-RON,
-ROO,
-ROP,
-ROQ,
-ROR,
-ROS,
-ROT,
-ROU,
-ROV,
-ROW,
-ROX,
-ROY,
-ROZ,
-RPA,
-RPB,
-RPC,
-RPD,
-RPE,
-RPF,
-RPG,
-RPH,
-RPI,
-RPJ,
-RPK,
-RPL,
-RPM,
-RPN,
-RPO,
-RPP,
-RPQ,
-RPR,
-RPS,
-RPT,
-RPU,
-RPV,
-RPW,
-RPX,
-RPY,
-RPZ,
-RQA,
-RQB,
-RQC,
-RQD,
-RQE,
-RQF,
-RQG,
-RQH,
-RQI,
-RQJ,
-RQK,
-RQL,
-RQM,
-RQN,
-RQO,
-RQP,
-RQQ,
-RQR,
-RQS,
-RQT,
-RQU,
-RQV,
-RQW,
-RQX,
-RQY,
-RQZ,
-RRA,
-RRB,
-RRC,
-RRD,
-RRE,
-RRF,
-RRG,
-RRH,
-RRI,
-RRJ,
-RRK,
-RRL,
-RRM,
-RRN,
-RRO,
-RRP,
-RRQ,
-RRR,
-RRS,
-RRT,
-RRU,
-RRV,
-RRW,
-RRX,
-RRY,
-RRZ,
-RSA,
-RSB,
-RSC,
-RSD,
-RSE,
-RSF,
-RSG,
-RSH,
-RSI,
-RSJ,
-RSK,
-RSL,
-RSM,
-RSN,
-RSO,
-RSP,
-RSQ,
-RSR,
-RSS,
-RST,
-RSU,
-RSV,
-RSW,
-RSX,
-RSY,
-RSZ,
-RTA,
-RTB,
-RTC,
-RTD,
-RTE,
-RTF,
-RTG,
-RTH,
-RTI,
-RTJ,
-RTK,
-RTL,
-RTM,
-RTN,
-RTO,
-RTP,
-RTQ,
-RTR,
-RTS,
-RTT,
-RTU,
-RTV,
-RTW,
-RTX,
-RTY,
-RTZ,
-RUA,
-RUB,
-RUC,
-RUD,
-RUE,
-RUF,
-RUG,
-RUH,
-RUI,
-RUJ,
-RUK,
-RUL,
-RUM,
-RUN,
-RUO,
-RUP,
-RUQ,
-RUR,
-RUS,
-RUT,
-RUU,
-RUV,
-RUW,
-RUX,
-RUY,
-RUZ,
-RVA,
-RVB,
-RVC,
-RVD,
-RVE,
-RVF,
-RVG,
-RVH,
-RVI,
-RVJ,
-RVK,
-RVL,
-RVM,
-RVN,
-RVO,
-RVP,
-RVQ,
-RVR,
-RVS,
-RVT,
-RVU,
-RVV,
-RVW,
-RVX,
-RVY,
-RVZ,
-RWA,
-RWB,
-RWC,
-RWD,
-RWE,
-RWF,
-RWG,
-RWH,
-RWI,
-RWJ,
-RWK,
-RWL,
-RWM,
-RWN,
-RWO,
-RWP,
-RWQ,
-RWR,
-RWS,
-RWT,
-RWU,
-RWV,
-RWW,
-RWX,
-RWY,
-RWZ,
-RXA,
-RXB,
-RXC,
-RXD,
-RXE,
-RXF,
-RXG,
-RXH,
-RXI,
-RXJ,
-RXK,
-RXL,
-RXM,
-RXN,
-RXO,
-RXP,
-RXQ,
-RXR,
-RXS,
-RXT,
-RXU,
-RXV,
-RXW,
-RXX,
-RXY,
-RXZ,
-RYA,
-RYB,
-RYC,
-RYD,
-RYE,
-RYF,
-RYG,
-RYH,
-RYI,
-RYJ,
-RYK,
-RYL,
-RYM,
-RYN,
-RYO,
-RYP,
-RYQ,
-RYR,
-RYS,
-RYT,
-RYU,
-RYV,
-RYW,
-RYX,
-RYY,
-RYZ,
-RZA,
-RZB,
-RZC,
-RZD,
-RZE,
-RZF,
-RZG,
-RZH,
-RZI,
-RZJ,
-RZK,
-RZL,
-RZM,
-RZN,
-RZO,
-RZP,
-RZQ,
-RZR,
-RZS,
-RZT,
-RZU,
-RZV,
-RZW,
-RZX,
-RZY,
-RZZ,
-SAA,
-SAB,
-SAC,
-SAD,
-SAE,
-SAF,
-SAG,
-SAH,
-SAI,
-SAJ,
-SAK,
-SAL,
-SAM,
-SAN,
-SAO,
-SAP,
-SAQ,
-SAR,
-SAS,
-SAT,
-SAU,
-SAV,
-SAW,
-SAX,
-SAY,
-SAZ,
-SBA,
-SBB,
-SBC,
-SBD,
-SBE,
-SBF,
-SBG,
-SBH,
-SBI,
-SBJ,
-SBK,
-SBL,
-SBM,
-SBN,
-SBO,
-SBP,
-SBQ,
-SBR,
-SBS,
-SBT,
-SBU,
-SBV,
-SBW,
-SBX,
-SBY,
-SBZ,
-SCA,
-SCB,
-SCC,
-SCD,
-SCE,
-SCF,
-SCG,
-SCH,
-SCI,
-SCJ,
-SCK,
-SCL,
-SCM,
-SCN,
-SCO,
-SCP,
-SCQ,
-SCR,
-SCS,
-SCT,
-SCU,
-SCV,
-SCW,
-SCX,
-SCY,
-SCZ,
-SDA,
-SDB,
-SDC,
-SDD,
-SDE,
-SDF,
-SDG,
-SDH,
-SDI,
-SDJ,
-SDK,
-SDL,
-SDM,
-SDN,
-SDO,
-SDP,
-SDQ,
-SDR,
-SDS,
-SDT,
-SDU,
-SDV,
-SDW,
-SDX,
-SDY,
-SDZ,
-SEA,
-SEB,
-SEC,
-SED,
-SEE,
-SEF,
-SEG,
-SEH,
-SEI,
-SEJ,
-SEK,
-SEL,
-SEM,
-SEN,
-SEO,
-SEP,
-SEQ,
-SER,
-SES,
-SET,
-SEU,
-SEV,
-SEW,
-SEX,
-SEY,
-SEZ,
-SFA,
-SFB,
-SFC,
-SFD,
-SFE,
-SFF,
-SFG,
-SFH,
-SFI,
-SFJ,
-SFK,
-SFL,
-SFM,
-SFN,
-SFO,
-SFP,
-SFQ,
-SFR,
-SFS,
-SFT,
-SFU,
-SFV,
-SFW,
-SFX,
-SFY,
-SFZ,
-SGA,
-SGB,
-SGC,
-SGD,
-SGE,
-SGF,
-SGG,
-SGH,
-SGI,
-SGJ,
-SGK,
-SGL,
-SGM,
-SGN,
-SGO,
-SGP,
-SGQ,
-SGR,
-SGS,
-SGT,
-SGU,
-SGV,
-SGW,
-SGX,
-SGY,
-SGZ,
-SHA,
-SHB,
-SHC,
-SHD,
-SHE,
-SHF,
-SHG,
-SHH,
-SHI,
-SHJ,
-SHK,
-SHL,
-SHM,
-SHN,
-SHO,
-SHP,
-SHQ,
-SHR,
-SHS,
-SHT,
-SHU,
-SHV,
-SHW,
-SHX,
-SHY,
-SHZ,
-SIA,
-SIB,
-SIC,
-SID,
-SIE,
-SIF,
-SIG,
-SIH,
-SII,
-SIJ,
-SIK,
-SIL,
-SIM,
-SIN,
-SIO,
-SIP,
-SIQ,
-SIR,
-SIS,
-SIT,
-SIU,
-SIV,
-SIW,
-SIX,
-SIY,
-SIZ,
-SJA,
-SJB,
-SJC,
-SJD,
-SJE,
-SJF,
-SJG,
-SJH,
-SJI,
-SJJ,
-SJK,
-SJL,
-SJM,
-SJN,
-SJO,
-SJP,
-SJQ,
-SJR,
-SJS,
-SJT,
-SJU,
-SJV,
-SJW,
-SJX,
-SJY,
-SJZ,
-SKA,
-SKB,
-SKC,
-SKD,
-SKE,
-SKF,
-SKG,
-SKH,
-SKI,
-SKJ,
-SKK,
-SKL,
-SKM,
-SKN,
-SKO,
-SKP,
-SKQ,
-SKR,
-SKS,
-SKT,
-SKU,
-SKV,
-SKW,
-SKX,
-SKY,
-SKZ,
-SLA,
-SLB,
-SLC,
-SLD,
-SLE,
-SLF,
-SLG,
-SLH,
-SLI,
-SLJ,
-SLK,
-SLL,
-SLM,
-SLN,
-SLO,
-SLP,
-SLQ,
-SLR,
-SLS,
-SLT,
-SLU,
-SLV,
-SLW,
-SLX,
-SLY,
-SLZ,
-SMA,
-SMB,
-SMC,
-SMD,
-SME,
-SMF,
-SMG,
-SMH,
-SMI,
-SMJ,
-SMK,
-SML,
-SMM,
-SMN,
-SMO,
-SMP,
-SMQ,
-SMR,
-SMS,
-SMT,
-SMU,
-SMV,
-SMW,
-SMX,
-SMY,
-SMZ,
-SNA,
-SNB,
-SNC,
-SND,
-SNE,
-SNF,
-SNG,
-SNH,
-SNI,
-SNJ,
-SNK,
-SNL,
-SNM,
-SNN,
-SNO,
-SNP,
-SNQ,
-SNR,
-SNS,
-SNT,
-SNU,
-SNV,
-SNW,
-SNX,
-SNY,
-SNZ,
-SOA,
-SOB,
-SOC,
-SOD,
-SOE,
-SOF,
-SOG,
-SOH,
-SOI,
-SOJ,
-SOK,
-SOL,
-SOM,
-SON,
-SOO,
-SOP,
-SOQ,
-SOR,
-SOS,
-SOT,
-SOU,
-SOV,
-SOW,
-SOX,
-SOY,
-SOZ,
-SPA,
-SPB,
-SPC,
-SPD,
-SPE,
-SPF,
-SPG,
-SPH,
-SPI,
-SPJ,
-SPK,
-SPL,
-SPM,
-SPN,
-SPO,
-SPP,
-SPQ,
-SPR,
-SPS,
-SPT,
-SPU,
-SPV,
-SPW,
-SPX,
-SPY,
-SPZ,
-SQA,
-SQB,
-SQC,
-SQD,
-SQE,
-SQF,
-SQG,
-SQH,
-SQI,
-SQJ,
-SQK,
-SQL,
-SQM,
-SQN,
-SQO,
-SQP,
-SQQ,
-SQR,
-SQS,
-SQT,
-SQU,
-SQV,
-SQW,
-SQX,
-SQY,
-SQZ,
-SRA,
-SRB,
-SRC,
-SRD,
-SRE,
-SRF,
-SRG,
-SRH,
-SRI,
-SRJ,
-SRK,
-SRL,
-SRM,
-SRN,
-SRO,
-SRP,
-SRQ,
-SRR,
-SRS,
-SRT,
-SRU,
-SRV,
-SRW,
-SRX,
-SRY,
-SRZ,
-SSA,
-SSB,
-SSC,
-SSD,
-SSE,
-SSF,
-SSG,
-SSH,
-SSI,
-SSJ,
-SSK,
-SSL,
-SSM,
-SSN,
-SSO,
-SSP,
-SSQ,
-SSR,
-SSS,
-SST,
-SSU,
-SSV,
-SSW,
-SSX,
-SSY,
-SSZ,
-STA,
-STB,
-STC,
-STD,
-STE,
-STF,
-STG,
-STH,
-STI,
-STJ,
-STK,
-STL,
-STM,
-STN,
-STO,
-STP,
-STQ,
-STR,
-STS,
-STT,
-STU,
-STV,
-STW,
-STX,
-STY,
-STZ,
-SUA,
-SUB,
-SUC,
-SUD,
-SUE,
-SUF,
-SUG,
-SUH,
-SUI,
-SUJ,
-SUK,
-SUL,
-SUM,
-SUN,
-SUO,
-SUP,
-SUQ,
-SUR,
-SUS,
-SUT,
-SUU,
-SUV,
-SUW,
-SUX,
-SUY,
-SUZ,
-SVA,
-SVB,
-SVC,
-SVD,
-SVE,
-SVF,
-SVG,
-SVH,
-SVI,
-SVJ,
-SVK,
-SVL,
-SVM,
-SVN,
-SVO,
-SVP,
-SVQ,
-SVR,
-SVS,
-SVT,
-SVU,
-SVV,
-SVW,
-SVX,
-SVY,
-SVZ,
-SWA,
-SWB,
-SWC,
-SWD,
-SWE,
-SWF,
-SWG,
-SWH,
-SWI,
-SWJ,
-SWK,
-SWL,
-SWM,
-SWN,
-SWO,
-SWP,
-SWQ,
-SWR,
-SWS,
-SWT,
-SWU,
-SWV,
-SWW,
-SWX,
-SWY,
-SWZ,
-SXA,
-SXB,
-SXC,
-SXD,
-SXE,
-SXF,
-SXG,
-SXH,
-SXI,
-SXJ,
-SXK,
-SXL,
-SXM,
-SXN,
-SXO,
-SXP,
-SXQ,
-SXR,
-SXS,
-SXT,
-SXU,
-SXV,
-SXW,
-SXX,
-SXY,
-SXZ,
-SYA,
-SYB,
-SYC,
-SYD,
-SYE,
-SYF,
-SYG,
-SYH,
-SYI,
-SYJ,
-SYK,
-SYL,
-SYM,
-SYN,
-SYO,
-SYP,
-SYQ,
-SYR,
-SYS,
-SYT,
-SYU,
-SYV,
-SYW,
-SYX,
-SYY,
-SYZ,
-SZA,
-SZB,
-SZC,
-SZD,
-SZE,
-SZF,
-SZG,
-SZH,
-SZI,
-SZJ,
-SZK,
-SZL,
-SZM,
-SZN,
-SZO,
-SZP,
-SZQ,
-SZR,
-SZS,
-SZT,
-SZU,
-SZV,
-SZW,
-SZX,
-SZY,
-SZZ,
-TAA,
-TAB,
-TAC,
-TAD,
-TAE,
-TAF,
-TAG,
-TAH,
-TAI,
-TAJ,
-TAK,
-TAL,
-TAM,
-TAN,
-TAO,
-TAP,
-TAQ,
-TAR,
-TAS,
-TAT,
-TAU,
-TAV,
-TAW,
-TAX,
-TAY,
-TAZ,
-TBA,
-TBB,
-TBC,
-TBD,
-TBE,
-TBF,
-TBG,
-TBH,
-TBI,
-TBJ,
-TBK,
-TBL,
-TBM,
-TBN,
-TBO,
-TBP,
-TBQ,
-TBR,
-TBS,
-TBT,
-TBU,
-TBV,
-TBW,
-TBX,
-TBY,
-TBZ,
-TCA,
-TCB,
-TCC,
-TCD,
-TCE,
-TCF,
-TCG,
-TCH,
-TCI,
-TCJ,
-TCK,
-TCL,
-TCM,
-TCN,
-TCO,
-TCP,
-TCQ,
-TCR,
-TCS,
-TCT,
-TCU,
-TCV,
-TCW,
-TCX,
-TCY,
-TCZ,
-TDA,
-TDB,
-TDC,
-TDD,
-TDE,
-TDF,
-TDG,
-TDH,
-TDI,
-TDJ,
-TDK,
-TDL,
-TDM,
-TDN,
-TDO,
-TDP,
-TDQ,
-TDR,
-TDS,
-TDT,
-TDU,
-TDV,
-TDW,
-TDX,
-TDY,
-TDZ,
-TEA,
-TEB,
-TEC,
-TED,
-TEE,
-TEF,
-TEG,
-TEH,
-TEI,
-TEJ,
-TEK,
-TEL,
-TEM,
-TEN,
-TEO,
-TEP,
-TEQ,
-TER,
-TES,
-TET,
-TEU,
-TEV,
-TEW,
-TEX,
-TEY,
-TEZ,
-TFA,
-TFB,
-TFC,
-TFD,
-TFE,
-TFF,
-TFG,
-TFH,
-TFI,
-TFJ,
-TFK,
-TFL,
-TFM,
-TFN,
-TFO,
-TFP,
-TFQ,
-TFR,
-TFS,
-TFT,
-TFU,
-TFV,
-TFW,
-TFX,
-TFY,
-TFZ,
-TGA,
-TGB,
-TGC,
-TGD,
-TGE,
-TGF,
-TGG,
-TGH,
-TGI,
-TGJ,
-TGK,
-TGL,
-TGM,
-TGN,
-TGO,
-TGP,
-TGQ,
-TGR,
-TGS,
-TGT,
-TGU,
-TGV,
-TGW,
-TGX,
-TGY,
-TGZ,
-THA,
-THB,
-THC,
-THD,
-THE,
-THF,
-THG,
-THH,
-THI,
-THJ,
-THK,
-THL,
-THM,
-THN,
-THO,
-THP,
-THQ,
-THR,
-THS,
-THT,
-THU,
-THV,
-THW,
-THX,
-THY,
-THZ,
-TIA,
-TIB,
-TIC,
-TID,
-TIE,
-TIF,
-TIG,
-TIH,
-TII,
-TIJ,
-TIK,
-TIL,
-TIM,
-TIN,
-TIO,
-TIP,
-TIQ,
-TIR,
-TIS,
-TIT,
-TIU,
-TIV,
-TIW,
-TIX,
-TIY,
-TIZ,
-TJA,
-TJB,
-TJC,
-TJD,
-TJE,
-TJF,
-TJG,
-TJH,
-TJI,
-TJJ,
-TJK,
-TJL,
-TJM,
-TJN,
-TJO,
-TJP,
-TJQ,
-TJR,
-TJS,
-TJT,
-TJU,
-TJV,
-TJW,
-TJX,
-TJY,
-TJZ,
-TKA,
-TKB,
-TKC,
-TKD,
-TKE,
-TKF,
-TKG,
-TKH,
-TKI,
-TKJ,
-TKK,
-TKL,
-TKM,
-TKN,
-TKO,
-TKP,
-TKQ,
-TKR,
-TKS,
-TKT,
-TKU,
-TKV,
-TKW,
-TKX,
-TKY,
-TKZ,
-TLA,
-TLB,
-TLC,
-TLD,
-TLE,
-TLF,
-TLG,
-TLH,
-TLI,
-TLJ,
-TLK,
-TLL,
-TLM,
-TLN,
-TLO,
-TLP,
-TLQ,
-TLR,
-TLS,
-TLT,
-TLU,
-TLV,
-TLW,
-TLX,
-TLY,
-TLZ,
-TMA,
-TMB,
-TMC,
-TMD,
-TME,
-TMF,
-TMG,
-TMH,
-TMI,
-TMJ,
-TMK,
-TML,
-TMM,
-TMN,
-TMO,
-TMP,
-TMQ,
-TMR,
-TMS,
-TMT,
-TMU,
-TMV,
-TMW,
-TMX,
-TMY,
-TMZ,
-TNA,
-TNB,
-TNC,
-TND,
-TNE,
-TNF,
-TNG,
-TNH,
-TNI,
-TNJ,
-TNK,
-TNL,
-TNM,
-TNN,
-TNO,
-TNP,
-TNQ,
-TNR,
-TNS,
-TNT,
-TNU,
-TNV,
-TNW,
-TNX,
-TNY,
-TNZ,
-TOA,
-TOB,
-TOC,
-TOD,
-TOE,
-TOF,
-TOG,
-TOH,
-TOI,
-TOJ,
-TOK,
-TOL,
-TOM,
-TON,
-TOO,
-TOP,
-TOQ,
-TOR,
-TOS,
-TOT,
-TOU,
-TOV,
-TOW,
-TOX,
-TOY,
-TOZ,
-TPA,
-TPB,
-TPC,
-TPD,
-TPE,
-TPF,
-TPG,
-TPH,
-TPI,
-TPJ,
-TPK,
-TPL,
-TPM,
-TPN,
-TPO,
-TPP,
-TPQ,
-TPR,
-TPS,
-TPT,
-TPU,
-TPV,
-TPW,
-TPX,
-TPY,
-TPZ,
-TQA,
-TQB,
-TQC,
-TQD,
-TQE,
-TQF,
-TQG,
-TQH,
-TQI,
-TQJ,
-TQK,
-TQL,
-TQM,
-TQN,
-TQO,
-TQP,
-TQQ,
-TQR,
-TQS,
-TQT,
-TQU,
-TQV,
-TQW,
-TQX,
-TQY,
-TQZ,
-TRA,
-TRB,
-TRC,
-TRD,
-TRE,
-TRF,
-TRG,
-TRH,
-TRI,
-TRJ,
-TRK,
-TRL,
-TRM,
-TRN,
-TRO,
-TRP,
-TRQ,
-TRR,
-TRS,
-TRT,
-TRU,
-TRV,
-TRW,
-TRX,
-TRY,
-TRZ,
-TSA,
-TSB,
-TSC,
-TSD,
-TSE,
-TSF,
-TSG,
-TSH,
-TSI,
-TSJ,
-TSK,
-TSL,
-TSM,
-TSN,
-TSO,
-TSP,
-TSQ,
-TSR,
-TSS,
-TST,
-TSU,
-TSV,
-TSW,
-TSX,
-TSY,
-TSZ,
-TTA,
-TTB,
-TTC,
-TTD,
-TTE,
-TTF,
-TTG,
-TTH,
-TTI,
-TTJ,
-TTK,
-TTL,
-TTM,
-TTN,
-TTO,
-TTP,
-TTQ,
-TTR,
-TTS,
-TTT,
-TTU,
-TTV,
-TTW,
-TTX,
-TTY,
-TTZ,
-TUA,
-TUB,
-TUC,
-TUD,
-TUE,
-TUF,
-TUG,
-TUH,
-TUI,
-TUJ,
-TUK,
-TUL,
-TUM,
-TUN,
-TUO,
-TUP,
-TUQ,
-TUR,
-TUS,
-TUT,
-TUU,
-TUV,
-TUW,
-TUX,
-TUY,
-TUZ,
-TVA,
-TVB,
-TVC,
-TVD,
-TVE,
-TVF,
-TVG,
-TVH,
-TVI,
-TVJ,
-TVK,
-TVL,
-TVM,
-TVN,
-TVO,
-TVP,
-TVQ,
-TVR,
-TVS,
-TVT,
-TVU,
-TVV,
-TVW,
-TVX,
-TVY,
-TVZ,
-TWA,
-TWB,
-TWC,
-TWD,
-TWE,
-TWF,
-TWG,
-TWH,
-TWI,
-TWJ,
-TWK,
-TWL,
-TWM,
-TWN,
-TWO,
-TWP,
-TWQ,
-TWR,
-TWS,
-TWT,
-TWU,
-TWV,
-TWW,
-TWX,
-TWY,
-TWZ,
-TXA,
-TXB,
-TXC,
-TXD,
-TXE,
-TXF,
-TXG,
-TXH,
-TXI,
-TXJ,
-TXK,
-TXL,
-TXM,
-TXN,
-TXO,
-TXP,
-TXQ,
-TXR,
-TXS,
-TXT,
-TXU,
-TXV,
-TXW,
-TXX,
-TXY,
-TXZ,
-TYA,
-TYB,
-TYC,
-TYD,
-TYE,
-TYF,
-TYG,
-TYH,
-TYI,
-TYJ,
-TYK,
-TYL,
-TYM,
-TYN,
-TYO,
-TYP,
-TYQ,
-TYR,
-TYS,
-TYT,
-TYU,
-TYV,
-TYW,
-TYX,
-TYY,
-TYZ,
-TZA,
-TZB,
-TZC,
-TZD,
-TZE,
-TZF,
-TZG,
-TZH,
-TZI,
-TZJ,
-TZK,
-TZL,
-TZM,
-TZN,
-TZO,
-TZP,
-TZQ,
-TZR,
-TZS,
-TZT,
-TZU,
-TZV,
-TZW,
-TZX,
-TZY,
-TZZ,
-UAA,
-UAB,
-UAC,
-UAD,
-UAE,
-UAF,
-UAG,
-UAH,
-UAI,
-UAJ,
-UAK,
-UAL,
-UAM,
-UAN,
-UAO,
-UAP,
-UAQ,
-UAR,
-UAS,
-UAT,
-UAU,
-UAV,
-UAW,
-UAX,
-UAY,
-UAZ,
-UBA,
-UBB,
-UBC,
-UBD,
-UBE,
-UBF,
-UBG,
-UBH,
-UBI,
-UBJ,
-UBK,
-UBL,
-UBM,
-UBN,
-UBO,
-UBP,
-UBQ,
-UBR,
-UBS,
-UBT,
-UBU,
-UBV,
-UBW,
-UBX,
-UBY,
-UBZ,
-UCA,
-UCB,
-UCC,
-UCD,
-UCE,
-UCF,
-UCG,
-UCH,
-UCI,
-UCJ,
-UCK,
-UCL,
-UCM,
-UCN,
-UCO,
-UCP,
-UCQ,
-UCR,
-UCS,
-UCT,
-UCU,
-UCV,
-UCW,
-UCX,
-UCY,
-UCZ,
-UDA,
-UDB,
-UDC,
-UDD,
-UDE,
-UDF,
-UDG,
-UDH,
-UDI,
-UDJ,
-UDK,
-UDL,
-UDM,
-UDN,
-UDO,
-UDP,
-UDQ,
-UDR,
-UDS,
-UDT,
-UDU,
-UDV,
-UDW,
-UDX,
-UDY,
-UDZ,
-UEA,
-UEB,
-UEC,
-UED,
-UEE,
-UEF,
-UEG,
-UEH,
-UEI,
-UEJ,
-UEK,
-UEL,
-UEM,
-UEN,
-UEO,
-UEP,
-UEQ,
-UER,
-UES,
-UET,
-UEU,
-UEV,
-UEW,
-UEX,
+QFO,May I land immediately?
+QFP,Quad Flat Pack
+QFQ,Quest For Quality
+QFR,Quarterly Financial Report
+QFS,Qualified Financial Services
+QFT,Quantum Field Theory
+QFU,Quick File Utility
+QFV,Are the floodlights switched on?
+QFW,Qmf For Windows
+QFX,Fax (QuickLink)
+QFY,Quest For Yap
+QFZ,Qeshm Free Zone
+QGA,"Quinn, Gillespie, & Associates, LLC"
+QGB,Queen's Gambit
+QGC,Questar Gas Company
+QGD,Gate - Drain Charge
+QGE,Quantitative Genetic Epidemiology
+QGF,"Montenegro, Brazil"
+QGG,Quasi- GlottoGram
+QGH,Quasi-human Growth Hormone
+QGI,Quilters' Guild of Indianapolis
+QGJ,Quick Game Journey
+QGK,What track should I make good?
+QGL,Queensland Gamers League
+QGM,Quality Graphics & Marketing
+QGN,Quimica Geral do Nordeste
+QGO,"Gorizia, Italy"
+QGP,Quark Gluon Plasma
+QGQ,May I hold at ... place?
+QGR,Quantum GRavity
+QGS,Quality Gold & Silver
+QGT,Quantum Graph Theory
+QGU,"Gifu, Japan"
+QGV,Quick Grip Vise
+QGW,Does my landing gear appear to be down and in place?
+QGX,"Allegiance Telecom, Inc. options"
+QGY,"Gyor, Hungary"
+QGZ,Quantum Gravity Zone
+QHA,Quarter Horse Association
+QHB,Quarter Horse Breeder
+QHC,Quality Health Care
+QHD,Quarter Horse Directory
+QHE,Quantum Hall Effect
+QHF,"Quilters Hall of Fame, Marion, Indiana"
+QHG,Quality Health Group
+QHH,Are you making an emergency landing?
+QHI,Qualified Helicopter Instructor
+QHJ,Quarter Horse Journal
+QHK,Quick Hitting Kaizen
+QHL,Quebec Hockey League
+QHM,Queens Harbour Master
+QHN,Queens Health Network
+QHO,Quarter Horse Outfitters
+QHP,Qualified Health Plan
+QHQ,Question Hypothesis Question
+QHR,"Quorum Health Resources, L. L. C."
+QHS,Quincy High School
+QHT,Quality High-Tech Services
+QHU,"Husum, Germany"
+QHV,Quail Hill Vineyard
+QHW,Quick Hide Windows
+QHX,"Hologic, Inc. options"
+QHY,Typo for 'why'
+QHZ,Shall I circle the aerodrome?
+QIA,Quality Institute of America
+QIB,Qualified Institutional Buyer
+QIC,Quarter-Inch Cartridge
+QID,Quad Information Display
+QIE,Quality Industrial Electronics
+QIF,Quicken Interchange Format
+QIG,Quick Installation Guide
+QIH,Quality In Hydraulics
+QII,Quake I I
+QIJ,Quality Inspection Journal
+QIK,Quality Improvement Kit
+QIL,Quality Inspection Line
+QIM,Quality Inspection Management
+QIN,Charge going IN
+QIO,Quality Improvement Organization
+QIP,Quantum Information Processing
+QIQ,Quick Investigation of Quality
+QIR,Quadratic Integral Ratio
+QIS,QUALCOMM Internet Services
+QIT,Qualified Income Trust
+QIU,Quality Inspection Unit
+QIV,Quick Image Viewer
+QIW,Qualified Injured Worker
+QIX,Quarterly Expiration Index
+QIY,Qualified Instructor Yeoman
+QIZ,Qualified Industrial Zone
+QJA,Quincy Johnson Architects
+QJB,"Jubail, Saudi Arabia"
+QJC,"Quast, Janke, & Company, CPA"
+QJD,Quarterly Journal Directory
+QJE,Quarterly Journal of Economics
+QJF,Quarterly Journal of Forestry
+QJG,Shall I revert to automatic relay?
+QJH,Quitman Junior High School
+QJI,Quarterly Journal of Ideology
+QJJ,Queen-Jack-Jack
+QJK,Qendra Juridike e Kosovës
+QJL,"Thermal resistance, Junction to Lead"
+QJM,Quarterly Journal of Medicine
+QJN,Quaternion Julia Navigator
+QJO,Quarterly Journal of Opinion
+QJP,Quick Japanese Processing
+QJQ,"Insight Communications Company, Inc. options"
+QJR,Quality Jogging in Richmond
+QJS,Quick Jump Sideways
+QJT,Quality Job Training
+QJU,"Kanpur, India"
+QJV,"Skagen, Denmark"
+QJW,Qualified Jury Wheel
+QJX,Qingdao Japan Express
+QJY,Quick Jump Yield
+QJZ,Quick Job Zone
+QKA,"Karlsruhe, Germany"
+QKB,Quality Kitchen and Bathroom
+QKC,Quick Kanji Converter
+QKD,Quantum Key Distribution
+QKE,Quadrupolar Kondo Effect
+QKF,"Krefeld, Germany"
+QKG,Quantum Key Generation
+QKH,Report details of the parallel sweep (track) search being (or to be) conducted?
+QKI,"Kielce, Poland"
+QKJ,Quick Knowledge Junction
+QKK,Qualitair Keller Kuehlung
+QKL,"Rhein-Main Railroad Station, Germany"
+QKM,QuadratKiloMeter
+QKN,Quick Keys News
+QKO,What other units are (or will be) taking part in the operation?
+QKP,Quadratic Knapsack Problem
+QKQ,"Anklam, Germany"
+QKR,Quantum Kicked Rotator
+QKS,Quasar Knowledge Systems
+QKT,Quietly Killing Time
+QKU,"Koeln, Germany"
+QKV,Quaking Viable
+QKW,QuicKeys for Windows
+QKX,QuicKeys X
+QKY,"Wakayama, Japan"
+QKZ,"Konstanz, Germany"
+QLA,Quark License Administrator
+QLB,Quality Of Life Advisory Board
+QLC,Quarter Life Crisis
+QLD,Queueing Literature Database
+QLE,Qualifying Life Event
+QLF,Quality Liquid Feeds
+QLG,Quincy Library Group
+QLH,"Kelsterbach, Germany"
+QLI,Query Language Interpreter
+QLJ,"Lucerne, Switzerland"
+QLK,Are you sending with your left foot and keyboard?
+QLL,Quasi-Liquid Layer
+QLM,Quantum Leap Methodology
+QLN,Quality Leaders Network
+QLO,Qarabag Liberation Organization
+QLP,Quality Loss Program
+QLQ,Quality of Life Questionnaire
+QLR,Quinnipiac Law Review
+QLS,QuickLabel Systems
+QLT,Quantum Leap Technology
+QLU,"Lublin, Poland"
+QLV,Quasi-Linear Viscoelastic
+QLW,Quick-Link Wall Mount
+QLX,"Bregenz/ Lauterach, Austria"
+QLY,Quality Leisure in York
+QLZ,Qs Landing Zone
+QMA,Quarter Midgets of America
+QMB,Qualified Medicare Beneficiary
+QMC,Quantum Monte Carlo
+QMD,Quantum Molecular Dynamics
+QME,Qualified Medical Examiner
+QMF,Quadrature Mirror Filter
+QMG,Quality Management Group
+QMH,Quaker Meeting House
+QMI,Quality Management Institute
+QMJ,Quality Management Journal
+QMK,Quarter Midget &#38; Karting
+QML,Qualified Manufacturers List
+QMM,Quality and Manufacturing Management
+QMN,"Mbabane, Swaziland"
+QMO,Quality Management Office
+QMP,Quality Management Plan
+QMQ,Quality of Motivation Questionnaire
+QMR,Quarterly Maintenance Release
+QMS,Quality Management System
+QMT,Quilt Maple Top
+QMU,QualMed Utilization
+QMV,Qualified Majority Voting
+QMW,Quality Management Workshop
+QMX,Quotation Marks
+QMY,Quick Myself
+QMZ,QualitaetsMassZahlen
+QNA,Question And Answer
+QNB,Qatar National Bank
+QNC,Queensland Nursing Council
+QND,Quincy Notre Dame
+QNE,Quick n' Easy
+QNF,Queensland Newsagents Federation
+QNG,Quantitativi Nazionali Garantiti
+QNH,Qatar National Hotels Company
+QNI,"Quincy Newspapers, Inc."
+QNJ,Quality New Jersey
+QNK,Qendra Nderkombetare e Kultures
+QNL,Your Net frequency is Low
+QNM,Quality New Mexico
+QNN,Quantum Neural Network
+QNO,Question Number
+QNP,Unable to copy.
+QNQ,"Quality, Not Quantity"
+QNR,I am approaching my point of no return
+QNS,Questions
+QNT,QuasiNewtonian Technologies
+QNU,Queensland Nurses Union
+QNV,Qualified Negative Gene-Altered Vaccinated
+QNW,Quantum NorthWest
+QNX,You are excused from the net
+QNY,Quintessential New York
+QNZ,Queens ( New York City)
+QOA,Quest of Ages
+QOB,Quality Of Business
+QOC,Quality Of Care
+QOD,Question Of the Day
+QOE,Quality Of Experience
+QOF,Quick Order Form
+QOG,Quasi-Optical Gyrotron
+QOH,Queen Of Hearts
+QOI,Quality Of Information
+QOJ,Quiver Of Jasper
+QOK,Queen-Of-Kinpun
+QOL,Quality of life
+QOM,Question Of the Month
+QON,Every other night
+QOO,Quorum Of One
+QOP,Quality Of Protection
+QOQ,Quarter On Quarter
+QOR,Quilters Online Resource
+QOS,Quality Of Service
+QOT,Quality of Transport
+QOU,Al- Quds Open University
+QOV,Quality Of Voice
+QOW,Question Of the Week
+QOX,Quality of Experience
+QOY,Quebec Open Youth
+QOZ,General term used for sand dunes
+QPA,Quality Point Average
+QPB,Quality Paperback Bookclub
+QPC,Quantum Point Contact
+QPD,Quality Paperbacks Direct
+QPE,Quiet Personal Electronics
+QPF,Quantitative Precipitation Forecast
+QPG,Quantum Performance Group LLC
+QPH,Quality Plumbing & Heating
+QPI,QuotePower International Limited
+QPJ,"Pecs, Hungary"
+QPK,"Quinlivan, Pierik, and Krause"
+QPL,Qt Public License
+QPM,Quality Protein Maize
+QPN,Qualitative Probabilistic Network
+QPO,Quasi-Periodic Oscillation
+QPP,Quebec Pension Plan
+QPQ,Quid Pro Quo
+QPR,Queens Park Rangers
+QPS,Quark Publishing System
+QPT,Quick Pan & Tilt
+QPU,Quarterly Provider Update
+QPV,Quick Picture Viewer
+QPW,QUIKPAGER Wireless
+QPX,Quahog Parasite Unknown
+QPY,QuaterPYridine
+QPZ,"Piacenza, Italy"
+QQA,Quapaw Quarter Association
+QQB,Queen Quilting Bee
+QQC,QuelQue Chose
+QQD,"Nashua Street Heliport, Boxborough, Massachusetts USA"
+QQE,Quantitative and Qualitative Easing
+QQF,Quite Quite Fantastic
+QQG,QQ Group
+QQH,Quarter Quarter Half
+QQI,Quantitative Quality Indicator
+QQJ,Quick Query Journey
+QQK,Talk.com options
+QQL,Quayle Quote List
+QQM,Qualitative and Quantitative Methods
+QQN,QuelQu'un
+QQO,Quasi- Quadrennial Oscillation
+QQP,Quantum Quality Productions
+QQQ,NASDAQ 100 Index Tracking stock
+QQR,QuinQuennial Review
+QQS,Quality Quidditch Supplies
+QQT,Quick Qard Technology
+QQU,"MedQuist, Inc. options"
+QQV,NASDAQ Volatility Index
+QQW,Quick Quote Windows
+QQX,Quick Query X
+QQY,Queer and Questioning Youth
+QQZ,"Paraguana Airport, Las Piedras, Venezuela"
+QRA,Quantitative Risk Analysis
+QRB,Quarterly Review of Biology
+QRC,Quick Reaction Capability
+QRD,Queer Resources Directory
+QRE,Quality and Reliability Engineering
+QRF,Quick Reaction Force
+QRG,Quick Reference Guide
+QRH,Quick Reference Handbook
+QRI,Qualitative Reading Inventory
+QRJ,Qualitative Research Journal
+QRK,Planet Quake files
+QRL,Queensland Rugby League
+QRM,Quantitative Risk Management
+QRN,Are you troubled by static?
+QRO,"Queretaro, Mexico"
+QRP,Low Power Amateur Radio
+QRQ,Send Faster
+QRR,Qualified Rehabilitation Representative
+QRS,Quantitative Restrictions
+QRT,Quarter
+QRU,Queensland Rugby Union
+QRV,Are you ready?
+QRW,Quarterly Review of Wines
+QRX,When will you call me again?
+QRY,Query
+QRZ,Amateur Radio call
+QSA,QT Script for Applications
+QSB,Your signals are fading
+QSC,"Questcor Pharmaceuticals, Inc."
+QSD,Quitman School District
+QSE,Qualitative Studies in Education
+QSF,Quebec Special Forces
+QSG,Quick Start Guide
+QSH,S#!* Happens
+QSI,Quality Schools International
+QSJ,Québec Studies Journal
+QSK,Can you hear me between your signals?
+QSL,Qedit Scripting Language
+QSM,Quantitative Software Management
+QSN,QuickScan data (TapCIS)
+QSO,Quasi-Stellar Object
+QSP,Quality School Portfolio
+QSQ,Have you a doctor on board?
+QSR,Quick Service Restaurant
+QSS,Quality Systems & Software
+QST,Quantitative Sensory Testing
+QSU,Quality Systems Update
+QSV,Quality Sound & Vision
+QSW,Quantum Syncro Wagon
+QSX,Quality Software eXpert
+QSY,Change frequency
+QSZ,Shall I send each word or group more than once?
+QTA,Quaterra Resources
+QTB,Quantum Turbo Battery
+QTC,Queensland Turf Club
+QTD,Quoted
+QTE,Qt/ Embedded
+QTF,Qatar Tennis Federation
+QTG,Quest Technology Group
+QTH,Quick Tech Hobby
+QTI,Question and Test Interoperability
+QTJ,QuickTime for Java
+QTK,Quiktrak Networks Limited
+QTL,Quantitative Trait Loci
+QTM,Quantum Tunneling of Magnetization
+QTN,Quotation
+QTO,Are you going to enter dock or port?
+QTP,Quick Test Professional
+QTQ,Quarter-To-Quarter
+QTR,Quarter
+QTS,Qualified teacher status
+QTT,Quick Thermal Transfer
+QTU,Queensland Teachers Union
+QTV,QuickTime Virtual Reality Movie
+QTW,Apple QuickTime for Windows
+QTX,QuickTime eXtension
+QTY,Quantity
+QTZ,Quartz
+QUA,Qualitative Use Assessment
+QUB,Queen's University of Belfast
+QUC,"Québec Province, Canada"
+QUD,Have you received the urgency signal sent by (call sign)?
+QUE,Québec
+QUF,Quaker Universalist Fellowship
+QUG,Quaker Universalist Group
+QUH,Will you give me the present barometric pressure at sea level?
+QUI,Are your navigation lights working?
+QUJ,Quick UML for Java
+QUK,Can you tell me the condition of the sea observed at ( Place or coordinates)?
+QUL,"Ulm, Germany"
+QUM,May I resume normal working?
+QUN,"My position, TRUE course, and speed are ...."
+QUO,Quality Object
+QUP,Quantity Per Unit Pack
+QUQ,"Shall I train my searchlight nearly vertical on a cloud, occulting if possible and, if your aircraft is seen, deflect the beam up wind and on the water (or land) to facilitate your landing?"
+QUR,Quantum Resources Ltd
+QUS,Questions
+QUT,Is position of incident marked?
+QUU,Shall I home ship or aircraft to my position?
+QUV,What is my magnetic bearing from you?
+QUW,Perseus Software Products survey elements
+QUX,Will you indicate the magnetic course for me to steer towards you with no wind?
+QUY,Is position of survival craft marked?
+QUZ,May I resume restricted working?
+QVA,QANTAS Virtual Airways
+QVB,Queen Victoria Building
+QVC,Quality Value Convenience
+QVD,Quality Video Detect
+QVE,Qualified Vocational Education
+QVF,Qualified Voter File
+QVG,Quality Verification Group
+QVH,Queen of the Valley Hospital
+QVI,Quality Verification Inspection
+QVJ,"Adams, Massachusetts Library"
+QVK,Queen Versus Knight
+QVL,Qualified Vendors List
+QVM,Quake Video Maker
+QVN,QuoVadis Navigator
+QVO,Qualified Vehicle Operator
+QVP,Quick View Plus
+QVQ,Queen versus Queen
+QVR,Queen Victoria Rifles
+QVS,QuickVideo Suite
+QVT,Quality Verification Testing
+QVU,"Viru, Solomon Islands"
+QVV,QuickView Viewer
+QVW,Qualite Village Wallonie
+QVX,Avocent Corporation options
+QVY,"Kouvola, Finland"
+QVZ,Quittungsverzug
+QWA,Qwa Qwa National Park
+QWB,Quality of Well-Being
+QWC,Queensland Writers Centre
+QWD,Quality Web Design
+QWE,Quit Worrying about Everything
+QWF,Quake Women's Forum
+QWG,Quarkonium Working Group
+QWH,Quasigroups With Holes
+QWI,QUALCOMM Wireless & Internet
+QWJ,Quantum Wave Jump
+QWK,Qwk reader message file
+QWL,Quality of Work Life
+QWM,Quantocks Workout & Musclebuilding
+QWN,Quick Website News Program
+QWO,Quiet Waters Outreach
+QWP,Quest Worldwide Productions
+QWQ,"Sheffield, England, United Kingdom"
+QWR,Quantum Wire
+QWS,Quit While Succeeding
+QWT,"Quality Water Treatment, Inc."
+QWU,"Wurzburg, Germany"
+QWV,Quantum World Vision
+QWW,Quantum Well Wire
+QWX,"Merida, Spain"
+QWY,Quality Well Year
+QWZ,Quizmeister Library
+QXA,Test Train Coach
+QXB,"Aix-En-Provence, France"
+QXC,Quantum Health Center
+QXD,Quark XPress Document
+QXE,"Sora, Italy"
+QXF,Quick Expert Facility
+QXG,Advanced Digital Information Corporation options
+QXH,Flowrate by Height
+QXI,Queue eXecutive Interface
+QXJ,"Caixas do Sul, RS, Brazil"
+QXK,Quantum X-Knowledge
+QXL,Quark XPress Element library
+QXM,Quick eXtend Mast
+QXN,Queen Takes Knight ( Chess)
+QXO,Quartz Crystal Oscillator
+QXP,QuarkXPress
+QXQ,Question by Question
+QXR,Quadrupole Extraction Regulator
+QXS,Quick Access
+QXT,Quark XPress Template
+QXU,"Saugus, Massachusetts, Public Library"
+QXV,Training and Instruction Coach
+QXW,"Topsfield, Massachusetts Public Library"
+QXX,Queen-Unknown-Unknown ( Bridge)
+QXY,Phase Angle Shift
+QXZ,Quantity Transfer Zone
+QYA,Queensland Yachting Association
+QYB,Quincy Youth Basketball
+QYC,Questioning Youth Center
+QYD,"Gdynia, Poland"
+QYE,Quan Yin Experience
+QYF,Quebec Young Farmers
+QYG,"Synaptics, Inc. Options"
+QYH,Quincy Youth Hockey
+QYI,"Hilversum, Netherlands"
+QYJ,"i2 Technologies, Inc. options"
+QYK,Inktomi Corporation options
+QYL,Queensland Young Labor
+QYM,Quantico Young Marines
+QYN,"Byron Bay, Australia"
+QYO,"Olsztyn, Poland"
+QYP,"Apeldoorn, Netherlands"
+QYQ,Quick Yield Quality
+QYR,"Troyes, France"
+QYS,Seebeyond options
+QYT,Quantum Yo Theory
+QYU,Quantum Yield Unit
+QYV,"Deventer, Netherlands"
+QYW,"Cannes, France"
+QYX,Quantum Yield X
+QYY,"Bialystok, Poland"
+QYZ,"Enzon, Inc."
+QZA,"Zarka, Jordan"
+QZB,"Zermatt, Switzerland"
+QZC,"Smiggin Holes, New South Wales, Australia"
+QZD,"Szeged, Hungary"
+QZE,Quantum Zeno Effect
+QZF,"Font Romeu, France"
+QZG,"La Llagone, France"
+QZH,Quanzhou seismograph station
+QZI,"Diversey Harbor, Illinois"
+QZJ,Quantum Zeta Journey
+QZK,"Lincoln Park North Pond, Illinois"
+QZL,Quetzlcoatl
+QZM,"Jackson Park South Lagoon, Illinois"
+QZN,Quick Zoom
+QZO,"Arezzo, Italy"
+QZP,Quantum Zeno Paradox
+QZQ,Leap Wireless options
+QZR,Q-Zar Inc.
+QZS,"USN Communications, Inc. options"
+QZT,Receiver trouble
+QZU,Qiongzhou University
+QZV,"Sand Pond, Illinois"
+QZW,Quarantine Zone Wrestling
+QZX,"Neoforma, Inc. options"
+QZY,You are unreadable
+QZZ,Did you fall asleep at the mike?
+RAA,Ruby Application Archive
+RAB,Radio Advertising Bureau
+RAC,Rent A Car
+RAD,Rapid Application Development
+RAE,Research Assessment Exercise
+RAF,Royal Air Force
+RAG,Recombination Activating Gene
+RAH,"RALCORP Holdings, Inc."
+RAI,Radiotelevisione Italiana
+RAJ,Rajasthani
+RAK,Ras Al Khaimah
+RAL,Refund Anticipation Loan
+RAM,Random Access Memory
+RAN,Royal Australian Navy
+RAO,Revenue Accounting Office
+RAP,RechnungsAbgrenzungsPosten
+RAQ,Rarely Asked Question
+RAR,Rock Am Ring
+RAS,Russian Academy Of Sciences
+RAT,Rock Abrasion Tool
+RAU,Randse Afrikaanse Universiteit
+RAV,Richmond Airport Vancouver
+RAW,Reading And Writing
+RAX,"Oram, Papua New Guinea"
+RAY,Raymond
+RAZ,"Rawala Kot, Pakistan"
+RBA,Rare Bird Alert
+RBB,Rundfunk Berlin-Brandenburg (Berlin-Brandenburg Broadcasting)
+RBC,Royal Bank of Canada
+RBD,Reliability Block Diagram
+RBE,Relative Biological Effectiveness
+RBF,Reel Big Fish
+RBG,Royal Botanical Gardens
+RBH,"Robinson, Bradshaw, & Hinson"
+RBI,Reserve Bank of India
+RBJ,Rochester Business Journal
+RBK,"Reebok International, LTD."
+RBL,Realtime Blackhole List
+RBM,Roll Back Malaria
+RBN,"Robbins &#38; Muers, Incorporated"
+RBO,RedBox Organizer
+RBP,Regular Baptist Press
+RBQ,"Rurrenabaque, Bolivia"
+RBR,Radio Business Report
+RBS,Royal Bank of Scotland
+RBT,Robotics
+RBU,Real Basic University
+RBV,Resource-Based View
+RBW,"Redd, Brown, & Williams Real Estate Services"
+RBX,Rubatex
+RBY,Ruby
+RBZ,Reserve Bank of Zimbabwe
+RCA,Right Coronary Artery
+RCB,River City Beemers
+RCC,Renal Cell Carcinoma
+RCD,Residual Current Device
+RCE,Rutgers Cooperative Extension
+RCF,Remote Call Forwarding
+RCG,Rosenthal Collins Group
+RCH,Railway Clearing House
+RCI,Resort Condominiums International
+RCJ,Rapid City Journal
+RCK,Rock
+RCL,"Royal Caribbean Cruises, LTD."
+RCM,Reliability Centered Maintenance
+RCN,Royal College of Nursing
+RCO,Regional Currency Office
+RCP,Rich Client Platform
+RCQ,Response Control Quotient
+RCR,Richard Childress Racing
+RCS,Revision Control System
+RCT,Roller Coaster Tycoon
+RCU,Read Copy Update
+RCV,Receive
+RCW,Revised Code of Washington
+RCX,Radio Control Experience
+RCY,Red Cross Youth
+RCZ,Rear Combat Zone
+RDA,Recommended Daily Allowance
+RDB,Relational Data Base
+RDC,Remote Desktop Connection
+RDD,Random Digit Dialing
+RDE,Rotating Disk Electrode
+RDF,Resource Description Framework
+RDG,Reading
+RDH,Registered Dental Hygienist
+RDI,Recommended Daily Intake
+RDJ,Rio de Janeiro
+RDK,Reference Design Kit
+RDL,Report Definition Language
+RDM,Remote Device Management
+RDN,Resource Discovery Network
+RDO,Remote Data Object
+RDP,Remote Desktop Protocol
+RDQ,Rate Distortion Quantization
+RDR,Reader
+RDS,Radio Data System
+RDT,Readers' Digest
+RDU,Raleigh - Durham International Airport
+RDV,Rapid Deployment Vehicle
+RDW,Red cell Distribution Width
+RDX,Cyclotrimethylenetrinitramine
+RDY,Ready
+RDZ,Rancho Del Zorro
+REA,Real Estate Agent
+REB,REBound
+REC,Received
+RED,Reduce
+REE,Rare Earth Element
+REF,Reference
+REG,Registration
+REH,Robert E. Howard
+REI,"Recreational Equipment, Inc."
+REJ,Reject
+REK,Robert Earl Keen
+REL,Release
+REM,Removal
+REN,Resolute Energy Corporation
+REO,Real Estate Owned
+REP,Representative
+REQ,Request
+RER,Rough Endoplasmic Reticulum
+RES,Resistance
+RET,Returned
+REU,Research Experiences For Undergraduates
+REV,Review
+REW,Rewind
+REX,King
+REY,The Reynolds and Reynolds Company
+REZ,Resolution
+RFA,Request for Applications
+RFB,Request For Bid
+RFC,Request For Comments
+RFD,Request For Discussion
+RFE,Radio Free Europe
+RFF,Resources For the Future
+RFG,"Rader, Fishman, & Grauer, PLLC"
+RFH,Royal Festival Hall
+RFI,Cohen & Steers Total Return Realty Fund
+RFJ,Relatives For Justice
+RFK,Robert Francis Kennedy
+RFL,Robot Fighting League
+RFM,"Recency, Frequency, And Monetary"
+RFN,Radio Free Nation
+RFO,Request For Offer
+RFP,Request For Proposal
+RFQ,Request For Quote
+RFR,Radio Free Roscoe
+RFS,"RFS Hotel Investors, Inc."
+RFT,Request For Tender
+RFU,Rugby Football Union
+RFV,Relative Feed Value
+RFW,Remote Free Wheel
+RFX,"Refco, Inc."
+RFY,República Federal de Yugoslavia
+RFZ,RinForZando
+RGA,Return Goods Authorization
+RGB,"Red, Green, Blue"
+RGC,Regal Entertainment Group
+RGD,Rat Genome Database
+RGE,Rec.gardens.ecosystems
+RGF,R&G Financial Corporation
+RGG,Reading Group Guide
+RGH,Rochester General Hospital
+RGI,Reproductive Genetics Institute
+RGJ,Reno Gazette-Journal
+RGK,Royal Grounds Keeper
+RGL,Regulatory Guidance Letter
+RGM,Rec.Games.Mud
+RGN,Region
+RGO,Reflux Gastro- Oesophagien
+RGP,Rigid Gas Permeable
+RGQ,Retail Gas Quadrant
+RGR,"Sturm Ruger & Company, Inc."
+RGS,Royal Geographical Society
+RGT,Regiment
+RGU,Robert Gordon University
+RGV,Rio Grande Valley
+RGW,Radio Gets Wild
+RGX,"Radiologix, Inc."
+RGY,"Red, Green, Yellow"
+RGZ,Radio Ground Zero
+RHA,Residence Hall Association
+RHB,"Rehabcare Group, Inc."
+RHC,Rural Health Clinic
+RHD,Right Hand Drive
+RHE,Rhetoric
+RHF,Rec.Humor.Funny
+RHG,Reactive HypoGlycemia
+RHH,Rumsey Holiday Homes
+RHI,"Robert Half International, Inc."
+RHJ,Rugged Hearts Journey
+RHK,RataHallintoKeskus
+RHL,Red Hat Linux
+RHM,Ron Hutchcraft Ministries
+RHN,Red Hat Network
+RHO,"Rhodes, Greece"
+RHP,Right Handed Pitcher
+RHQ,Regimental Headquarters
+RHR,Resting Heart Rate
+RHS,Right Hand Side
+RHT,Robert Half Technology
+RHU,Registered Health Underwriter
+RHV,Reid- Hillview
+RHW,Robert Hewitt Wolfe
+RHX,Royal Hunter X
+RHY,Runaway and Homeless Youth
+RHZ,Rolling Hills Zoo
+RIA,RadioImmunoAssay
+RIB,Rigid Inflatable Boat
+RIC,Roman Imperial Coinage
+RID,Robots In Disguise
+RIE,Reactive Ion Etching
+RIF,Reduction In Force
+RIG,Random Identity Generator
+RIH,Rhode Island Hospital
+RII,Region II
+RIJ,"Rioja, Peru"
+RIK,"Carrillo, Costa Rica"
+RIL,"Reliance Industries, LTD"
+RIM,Research In Motion
+RIN,Rin Tin Tin
+RIO,Rock In Opposition
+RIP,Rest In Peace
+RIQ,Egyptian tambourine
+RIR,Regional Internet Registry
+RIS,Regulatory Impact Statement
+RIT,Rochester Institute of Technology
+RIU,Resource Information Unit
+RIV,River
+RIW,"Ruberto, Israel, & Weiner, P.C."
+RIX,"Riga, Latvia"
+RIY,Reduction In English
+RIZ,"Rio Alzucar, Panama Republic"
+RJA,Raymond James & Associates
+RJB,"Rajbiraj, Nepal"
+RJC,Researchers' & Journalists' Conference of Japan
+RJD,"Rashtriya Janata Dal (National People's Party), India"
+RJE,Remote Job Entry
+RJF,"Raymond James Financial, Inc."
+RJG,Robert J. Goldstein & Associates
+RJH,"Rajshahi, Bangladesh"
+RJI,Request for Judicial Intervention
+RJJ,Robert J. Jenkins & Company
+RJK,"Rijeka, Yugoslavia"
+RJL,"Raymond J. Lucia Companies, Inc."
+RJM,Remote Job Management
+RJN,Rockland Journal-News
+RJO,Retail Jewelers Organization
+RJP,Realistic Job Preview
+RJQ,Rapid Jet Quenching
+RJR,"R. J. Reynolds Tobacco Holdings, Inc."
+RJS,Rajasthan Judicial Services
+RJT,Robert J. Tiess Music
+RJU,Rijksdienst Jaarlijkse Vakantie
+RJV,Research Joint Venture
+RJW,Rewinds & J. Windsor
+RJX,Ron Jeremy Explosion
+RJY,Riddle Joke Yoke
+RJZ,"Rex J. Zgarba, Attorney"
+RKA,"Roslyn, Kunin, and Associates, Inc."
+RKB,Responsive KnowledgeBase
+RKC,"Rumberger, Kirk, & Caldwell"
+RKD,Right Knuckles Down
+RKE,Cap Rock Energy Corporation
+RKF,"Robert K. Futterman & Associates, L. L. C."
+RKG,Rosenblatt-Klauber Group
+RKH,Riyadh Armed Forces Hospital
+RKI,"Roberts & Kay, Incorporated"
+RKJ,"ROTOR KICK, Junior"
+RKK,Regionalverband Karnevalistischer Korporationen
+RKL,Rho Kappa Lambda
+RKM,Ramakrishna Mission
+RKN,Root- Knot Nematode
+RKO,Radio Keith Orpheum
+RKP,Relative Key Position
+RKQ,Road Kill Quarterly
+RKR,RootkitRevealer
+RKS,Rochester Kink Society
+RKT,Rocket
+RKU,Right Knuckles Up
+RKV,River Kwai Village Hotel
+RKW,R. Kinney Williams & Associates
+RKX,Rapid Key Exchange
+RKY,Adolph Coors Company
+RKZ,Rode Kruis Ziekenhuis
+RLA,Railway Labor Act
+RLB,Rachel Leyco Band
+RLC,Radio Link Control
+RLD,Rolled
+RLE,Run Length Encoding
+RLF,"Richards, Layton, & Finger"
+RLG,Research Libraries Group
+RLH,Run Like Hell
+RLI,"Renaissance Learning, Incorporated"
+RLJ,Rickie Lee Jones
+RLK,RaiLink Canada Limited - RaiLink Ottawa Valley
+RLL,Run Length Limited
+RLM,Resource Library Magazine
+RLN,Recurrent Laryngeal Nerve
+RLO,Reusable Learning Object
+RLP,Radio Link Protocol
+RLQ,Right Lower Quadrant
+RLR,Reinforcement Learning Repository
+RLS,Restless Legs Syndrome
+RLT,Real Life Test
+RLU,Relative Light Unit
+RLV,Reusable Launch Vehicle
+RLW,Republic Locomotive Works
+RLX,Right lower extremity
+RLY,Really
+RLZ,Run Level Zero
+RMA,Return Material Authorization
+RMB,Reimburse
+RMC,Royal Military College
+RMD,Required Minimum Distribution
+RME,Resource Manager Essentials
+RMF,Resource Measurement Facility
+RMG,Resource Management Group
+RMH,"Roh Moo–hyun, former President of South Korea"
+RMI,Remote Method Invocation
+RMJ,"RICHARD M. JOHNSON & ASSOCIATES, INC."
+RMK,Remarks
+RML,Right Middle Lobe
+RMM,Rod Millen Motorsports
+RMN,Rocky Mountain News
+RMO,Records Management Office
+RMP,Risk Management Plan
+RMQ,Roland- Morris Questionnaire
+RMR,Royal Marines Reserve
+RMS,Root Mean Square
+RMT,Reliable Multicast Transport
+RMU,Ring Main Unit
+RMV,Rijksmuseum voor Volkenkunde
+RMW,Regulated Medical Waste
+RMX,Right Media Exchange
+RMY,"Delco Remy International, Inc."
+RMZ,Riparian Management Zone
+RNA,Ribonucleic acid
+RNB,Rythm and Blues
+RNC,Republican National Convention
+RND,Random Number
+RNE,Radio Nacional de España
+RNF,Research Network Forum
+RNG,Ranger
+RNH,Rodgers & Hammerstein
+RNI,Redwood Neuroscience Institute
+RNJ,Romeo and Juliet
+RNK,Rank
+RNL,Resistance and Liberation
+RNM,Resonancia Nuclear Magnética
+RNN,Renaissance News & Notes
+RNO,Russian National Orchestra
+RNP,Rede Nacional de Pesquisa
+RNQ,Reading Notes Quiz
+RNR,Royal Naval Reserve
+RNS,Regulatory News Service
+RNT,Rent
+RNU,"Ranau, Malaysia"
+RNV,"Reno, Nevada"
+RNW,Radio Nederland Wereldomroep
+RNX,Restricted Numeric Exchange
+RNY,Roux-en-Y Gastric Bypass
+RNZ,Radio New Zealand
+ROA,Return On Assets
+ROB,Robert
+ROC,Republic Of China
+ROD,Record of Decision
+ROE,Return On Equity
+ROF,Rate Of Fire
+ROG,Rogers Corporation
+ROH,Rohm & Haas Company
+ROI,Return On Investment
+ROJ,The Rest Of Japan
+ROK,Republic of Korea
+ROL,Romanian Leu
+ROM,Read-Only Memory
+RON,Ronald McDonald
+ROO,Kangaroo
+ROP,Retinopathy Of Prematurity
+ROQ,"KROQ-FM, FM-106.7, Coachella, California"
+ROR,Rate Of Return
+ROS,Reactive Oxygen Species
+ROT,Rotation
+ROU,Roulette
+ROV,Remotely Operated Vehicle
+ROW,Right of Way
+ROX,Run Of eXperiments
+ROY,Rookie Of The Year
+ROZ,Rosalind
+RPA,Royal Prince Alfred
+RPB,Research to Prevent Blindness
+RPC,Remote Procedure Call
+RPD,Rapid
+RPE,Retinal Pigment Epithelium
+RPF,Reverse Path Forwarding
+RPG,Role Playing Games
+RPH,Registered Pharmacist
+RPI,Rensselaer Polytechnic Institute
+RPJ,Rapid Process Justification
+RPK,Republican Party of Kentucky
+RPL,Recognition Of Prior Learning
+RPM,Revolutions per Minute
+RPN,Reverse Polish Notation
+RPO,Recruitment Process Outsourcing
+RPP,Rate Pressure Product
+RPQ,Request for Price Quotation
+RPR,Resilient Packet Ring
+RPS,Redundant Power Supply
+RPT,Report
+RPU,Redundant Power Unit
+RPV,Rancho Palos Verdes
+RPW,Republican Party of Wisconsin
+RPX,Republik Express Airlines
+RPY,Roll Pitch Yaw
+RPZ,Runway Protection Zone
+RQA,Recurrence Quantification Analysis
+RQB,"Roben-Hood, Big Rapids, Michigan USA"
+RQC,Revenue Quality Control
+RQD,Required
+RQE,Robust Quality Estimator
+RQF,Rescue Flight
+RQG,Rescue Group
+RQH,RAINES' Quality Homes
+RQI,"Cohen & Steers Quality Income Realty Fund, Incorporated"
+RQJ,Research Question Journal
+RQK,Rumpled Quilts Kin
+RQL,RDF (Resource Description Framework) Query Language
+RQM,Requirement
+RQN,"Ray, Quinney, & Nebeker"
+RQO,Research Question Objective
+RQP,"Right Question Project, Inc."
+RQQ,Radio- Quiet Quasar
+RQR,Royal Queensland Regiment
+RQS,Rescue Squadron
+RQT,Reliability Qualification Test
+RQU,"Qualcomm, Inc. PERCS"
+RQV,Registry of Quality Vendors
+RQW,Rescue Wing
+RQX,Research Quality Experimental
+RQY,Relative Quantum Yield
+RQZ,Rancho Questa de la Zorras
+RRA,Rock River Arms
+RRB,Railroad Retirement Board
+RRC,RailRoad Commission of Texas
+RRD,"R. R. Donnelley & Sons Company, Printers"
+RRE,Red Rock Eater News Service
+RRF,Ribosome Recycling Factor
+RRG,Risk Retention Group
+RRH,Ridgecrest Regional Hospital
+RRI,Radio Republik Indonesia
+RRJ,Russian Regional Jet
+RRK,"Rourkela, India"
+RRL,Rock & Roll Library
+RRM,Rna Recognition Motif
+RRN,Rally Racing News
+RRO,Revised Regulations of Ontario
+RRP,Recommended Retail Price
+RRQ,Reading Research Quarterly
+RRR,Relative Risk Reduction
+RRS,Really Right Stuff
+RRT,Rapid Response Team
+RRU,Rapid Response Unit
+RRV,Red River Valley
+RRW,Race Results Weekly
+RRX,Rank Regression on X
+RRY,Rank Regression on Y
+RRZ,"Russell, Rea, & Zappala"
+RSA,Royal & Sun Alliance Insurance Company
+RSB,Revisor of Statutes Bureau
+RSC,The Royal Shakespeare Company
+RSD,Relative Standard Deviation
+RSE,Relative Standard Error
+RSF,Rancho Santa Fe
+RSG,Revenue Support Grant
+RSH,Remote SHell
+RSI,Relative Strength Index
+RSJ,Robotics Society of Japan
+RSK,Risk
+RSL,Registered Social Landlord
+RSM,"Merrill Lynch & Company, Inc."
+RSN,Real Soon Now
+RSO,Roger & Sherry Olsen Livestock
+RSP,Retirement Savings Plan
+RSQ,Rescue
+RSR,Regulatory And Statistical Return
+RSS,Really Simple Syndication
+RST,ReSeT
+RSU,Remote Switching Unit
+RSV,Revised Standard Version
+RSW,Registered Social Worker
+RSX,"Rouses Point, New York USA"
+RSY,"Merrill Lynch & Company, Inc."
+RSZ,Radio Starz
+RTA,Roads and Traffic Authority
+RTB,Rural Telephone Bank
+RTC,Real Time Clock
+RTD,Research and Technological Development
+RTE,Rich Text Editor
+RTF,Rich Text Format
+RTG,Real Time Gaming
+RTH,Regular Trading Hours
+RTI,Research Triangle Institute
+RTJ,Robert Trent Jones Golf
+RTK,Right To Know
+RTL,Register-Transfer Level
+RTM,Release To Manufacturing
+RTN,Return
+RTO,Regional Transport Office
+RTP,Research Triangle Park
+RTQ,Real- Time stock Quote
+RTR,Ready To Run
+RTS,Real Time Strategy
+RTT,Round Trip Time
+RTU,Ready To Use
+RTV,Radio/ TeleVision
+RTW,Round The World
+RTX,Real Time Executive
+RTY,Realty
+RTZ,Rio Tinto Zinc
+RUA,"Arua, Uganda"
+RUB,Russian Rouble
+RUC,Royal Ulster Constabulary
+RUD,Realm of Utopian Dreams
+RUE,Street
+RUF,Rough
+RUG,Regional User Group
+RUH,"Riyadh, Saudi Arabia"
+RUI,"Restaurants Unlimited, Inc."
+RUJ,Russian Union of Journalists
+RUK,aRe yoU Kidding?
+RUL,Ruling
+RUM,"Merrill Lynch & Company, Inc."
+RUN,Rundi
+RUO,Research Use Only
+RUP,Rational Unified Process
+RUQ,Right Upper Quadrant
+RUR,Rural
+RUS,Rusça
+RUT,Rutgers University
+RUU,Rancangan Undang-Undang
+RUV,"Rubelsanto, Guatemala"
+RUW,Rappahannock United Way
+RUX,aRe yoU eXperienced?
+RUY,"Copan, Honduras"
+RUZ,Right Upper Zone
+RVA,"Richmond, Virginia"
+RVB,Red Versus Blue
+RVC,Rockville Centre
+RVD,Rob Van Dam
+RVE,Remington & Vernick Engineers
+RVF,Rift Valley Fever
+RVG,Rudy Van Gelder
+RVH,Royal Victoria Hospital
+RVI,Radio Vlaanderen Internationaal
+RVJ,Real Vampires Journal
+RVK,R&V Knight
+RVL,Ronald van Loon
+RVM,Research Virtual Machine
+RVN,Republic of VietNam
+RVO,Rabaul Volcano Observatory
+RVP,Regional Vice President
+RVQ,Residual Vector Quantization
+RVR,Realm Vs. Realm
+RVS,Raven Shield
+RVT,Registered Veterinary Technician
+RVU,Relative Value Unit
+RVV,Richmond Virtual Village
+RVW,Review
+RVX,Resverlogix Corporation
+RVY,Robert Vaughn Young
+RVZ,Raad voor de Volksgezondheid en Zorg - Netherlands
+RWA,Romance Writers Of America
+RWB,"Red, White, and Blue"
+RWC,Redwood City
+RWD,Rear Wheel Drive
+RWE,Ralph Waldo Emerson
+RWF,Rwanda Franc
+RWG,Regional Working Group
+RWH,R. W. Hertel & Sons
+RWI,RaceWalking International
+RWJ,Robert Wood Johnson
+RWK,Robots Will Kill
+RWL,Raised White Letters
+RWM,Read-Write Memory
+RWN,Right Wing News
+RWO,"Robinson, Waters, & O'Dorisio"
+RWP,Research Working Paper
+RWQ,Reading and Writing Quarterly
+RWR,Radar Warning Receiver
+RWS,Rider Waite Smith
+RWT,"Redwood Trust, Inc."
+RWU,Roger Williams University
+RWV,Rotating Wall Vessel
+RWW,Read While Write
+RWX,"Read, Write, Execute permission"
+RWY,Runway
+RWZ,Restricted Weapons Zone
+RXA,Received Analog signal
+RXB,Receiver Box
+RXC,Remote Execution Control
+RXD,Receive Data
+RXE,Remote Expansion Enclosure
+RXF,Refracted X-ray Fluorescence
+RXG,Radical X Generation
+RXH,Richard X Heyman
+RXI,Receiver Input
+RXJ,Receive-Protocol Reject
+RXK,Rapid X-Knowledge
+RXL,Roundwound Extra Light Electric Guitar Strings
+RXM,RoXithroMycin
+RXN,Reaction
+RXO,Receiver Output
+RXP,Rook takes Pawn
+RXQ,Quick Requisition
+RXR,Retinoid X Receptor
+RXS,Resonant X-ray Scattering
+RXT,Rate times Time
+RXU,Receiver Unit
+RXV,Receiver Video
+RXW,Receiver Workbook
+RXX,Receiver Remote Restart
+RXY,Roxy Petroleum
+RXZ,Arginine Alanine Proline proteins
+RYA,Robert Yates & Associates
+RYB,Red Yellow Blue
+RYC,Royal Yacht Club
+RYD,DECS Trust II
+RYE,Retirement Year Ending
+RYF,The Ralph Young Fund
+RYG,"Red, Yellow, Green"
+RYH,Rochester Youth Hockey
+RYI,Radical Youth Invasion
+RYJ,Romeo Y Julieta
+RYK,Receptor-like Tyrosine Kinase
+RYL,Royal
+RYM,Rate Your Music
+RYN,Rayonier Real Estate Investment Trust
+RYO,Roll Your Own
+RYP,Russian Yellow Pages
+RYQ,Regarding Your Query
+RYR,Robert Yates Racing
+RYS,Religious Youth Service
+RYT,Right
+RYU,Revolutionary Youth Union
+RYV,Raise Your Voice
+RYW,"Red, Yellow, & White"
+RYX,ReadymiX
+RYY,Royal Yachtmaster
+RYZ,Richard Y Zhang
+RZA,RechenZentrum Amaliendorf
+RZB,Raiffeisen ZentralBank Osterreich
+RZC,Red Zone Cuba
+RZD,Root Zone Depth
+RZE,"Rzeszow- Jasionka Airport, Rzeszów, Poland"
+RZF,RaZor File
+RZG,RechenZentrum Garching
+RZH,Roberti Z’Berg- Harris Urban Open Space and Recreation Program
+RZI,Return to Zero Inverted
+RZJ,RissZeichnungs Journal
+RZK,Resettable Zero- Knowledge
+RZL,Return to Zero Level
+RZM,ReichZeugMeisterei
+RZN,Return to Zero Non-inverted
+RZO,RaZor Operation
+RZP,Rychla Zdravotnicka Pomoc
+RZQ,RueckZahlungs Quote
+RZR,Razor
+RZS,Royal Zoological Society
+RZT,"ResortQuest International, Inc."
+RZU,Regional Zone Unit
+RZV,RhiZidiomyces Virus
+RZW,Radiation Zone Work
+RZX,Return to Zero for any X
+RZY,"Rezayieh, Iran"
+RZZ,"Roanoke Rapids, North Carolina USA"
+SAA,Serum Amyloid A
+SAB,"Sutherland, Asbill, & Brennan, L. L. P."
+SAC,Sacral
+SAD,Seasonal affective disorder
+SAE,"Skipped, Absent, Excused"
+SAF,Society of American Foresters
+SAG,Screen Actors Guild
+SAH,"Sonic Automotive, Inc."
+SAI,Sigma Alpha Iota
+SAJ,St. Joseph Light & Power Company
+SAK,Swiss Army Knife
+SAL,Salve
+SAM,Surface-to-Air Missile
+SAN,Storage Area Network
+SAO,"Sao Paulo, Sao Paulo, Brazil"
+SAP,"S A P, A. G."
+SAQ,Société des Alcools du Québec
+SAR,Synthetic Aperture Radar
+SAS,Serial attached SCSI
+SAT,Saturday
+SAU,Sausage
+SAV,Submerged Aquatic Vegetation
+SAW,Surface Acoustic Wave
+SAX,Saxophone
+SAY,Same As You
+SAZ,Southern Arizona
+SBA,Small Business Administration
+SBB,Schweizerische BundesBahnen
+SBC,"SBC Communications, Incorporated (de-listed)"
+SBD,South Beach Diet
+SBE,Small Business Edition
+SBF,Surface Brightness Fluctuations
+SBG,Sant Bartomeu del Grau
+SBH,Sequencing by Hybridization
+SBI,State Bank of India
+SBJ,Springfield Business Journal
+SBK,Superbike World Championship
+SBL,Society for Biblical Literature
+SBM,Strategic Business Model
+SBN,Social Barcoding Number
+SBO,Strategic Business Objective
+SBP,Systolic Blood Pressure
+SBQ,System Backup Queue
+SBR,Strategic Business Review
+SBS,Strategic Business Solution
+SBT,Scala Build Tool
+SBU,Strategic Business Unit
+SBV,Symbolic Bit Vector
+SBW,Strategic Business Workshop
+SBX,Sea-Based X-band Radar
+SBY,Susilo Bambang Yudhoyono
+SBZ,Strategic Business Zone
+SCA,Society for Creative Anachronism
+SCB,Standard Chartered Bank
+SCC,Squamous Cell Carcinoma
+SCD,Sudden Cardiac Death
+SCE,Saturated Calomel Electrode
+SCF,Self Consistent Field
+SCG,Sydney Cricket Ground
+SCH,School
+SCI,Spinal Cord Injury
+SCJ,Society for Collegiate Journalists
+SCK,Stone Cold Killers
+SCL,"Santiago, Chile"
+SCM,Supply Chain Management
+SCN,Saskatchewan Communications Network
+SCO,Scots
+SCP,Service Control Point
+SCQ,Social Communication Questionnaire
+SCR,Seychelles Rupee
+SCS,"Steelcase, Inc."
+SCT,Stem Cell Transplant
+SCU,Southern Cross University
+SCV,Santa Clarita Valley
+SCW,Spanish Civil War
+SCX,Strong Cation-Exchanger
+SCY,Short Course Yards
+SCZ,SChiZophrenia
+SDA,Seventh Day Adventist
+SDB,Sleep Disordered Breathing
+SDC,Special Day Class
+SDD,Sudanese Dinar
+SDE,Spatial Database Engine
+SDF,Sans Domicile Fixe
+SDG,Soli Deo Gloria
+SDH,Synchronous Digital Hierarchy
+SDI,State Disability Insurance
+SDJ,Surat Diamond Jewellery
+SDK,Software Development Kit
+SDL,Simple DirectMedia Layer
+SDM,Shared Decision Making
+SDN,Software Defined Network
+SDO,Solar Dynamics Observatory
+SDP,Session Description Protocol
+SDQ,"Santo Domingo, Dominican Republic"
+SDR,Software Defined Radio
+SDS,Sodium Dodecyl Sulfate
+SDT,Signal Detection Theory
+SDU,State Disbursement Unit
+SDV,Switched Digital Video
+SDW,Society of the Divine Word
+SDX,Secure Document eXchange
+SDY,"Sydney, New south Wales, Australia"
+SDZ,SulphaDiaZine
+SEA,South East Asia
+SEB,Skandinaviska Enskilda Banken
+SEC,Section
+SED,Serious Emotional Disturbance
+SEE,South East Europe
+SEF,Search Engine Friendly
+SEG,Segment
+SEH,Spartech Corporation
+SEI,Software Engineering Institute
+SEJ,Society of Environmental Journalists
+SEK,Süt Endüstrisi Kurumu
+SEL,SELect
+SEM,Scanning Electron Microscope
+SEN,Senator
+SEO,Search Engine Optimization
+SEP,September
+SEQ,Sequence
+SER,Smooth Endoplasmic Reticulum
+SES,Socio Economic Status
+SET,Configuration Settings
+SEU,Single Event Upset
+SEV,Several
+SEW,Search Engine Watch
+SEX,South Eastern Xtreme
+SEY,Seymour
+SEZ,Says
+SFA,Sales Force Automation
+SFB,Sender Freies Berlin
+SFC,Supercritical Fluid Chromatography
+SFD,"Smithfield Foods, Inc."
+SFE,Supercritical Fluid Extraction
+SFF,Small Form Factor
+SFG,Sum Frequency Generation
+SFH,Single Family Home
+SFI,Sustainable Forestry Initiative
+SFJ,Stock & Finger-Jointed Scantlings
+SFK,Something For Kate
+SFL,South Florida
+SFM,Scanning Force Microscopy
+SFN,Society For Neuroscience
+SFO,San Francisco International Airport
+SFP,Small Form Pluggable
+SFQ,Single Flux Quantum
+SFR,Star Formation Rate
+SFS,School of Foreign Service
+SFT,Students for a Free Tibet
+SFU,Simon Fraser University
+SFV,San Fernando Valley
+SFW,Science Fiction Weekly
+SFX,Sound Effects
+SFY,State Fiscal Year
+SFZ,Street Fighter Zero
+SGA,Student Government Association
+SGB,Stanford GraphBase
+SGC,StarGate Command
+SGD,Singapore Dollar
+SGE,Sun Grid Engine
+SGF,"Singapore Fund, Inc."
+SGG,St. Gertrude the Great
+SGH,"Simpson, Gumpertz, & Heger Engineering"
+SGI,"Silicon Graphics, Inc."
+SGJ,Special Grand Jury
+SGK,"Schawk, Inc."
+SGL,Sorcerer Gnu Linux
+SGM,Sergeant Major
+SGN,Sign
+SGO,Society of Gynecologic Oncologists
+SGP,Schering Plough Corporation
+SGQ,"Sanggata, Indonesia"
+SGR,Sociedades de Garantía Recíproca
+SGS,Société Générale de Surveillance
+SGT,Sergeant
+SGU,St. George's University
+SGV,San Gabriel Valley
+SGW,Stained Glass Workshop
+SGX,Structural Genomix
+SGY,Stone Energy Corporation
+SGZ,Springs and Grass Zone
+SHA,Secure Hash Algorithm
+SHB,Shorelines Hearings Board
+SHC,Spontaneous Human Combustion
+SHD,Sustainable Human Development
+SHE,"Safety, Health, and Environment"
+SHF,Super High Frequency
+SHG,Second Harmonic Generation
+SHH,Sonic HedgeHog
+SHI,School Health Index
+SHJ,"Sharjah, United Arab Emirates"
+SHK,Svenska Hundklubben
+SHL,Shift Logical Left
+SHM,Soc. History. Medieval
+SHN,Shan
+SHO,Showtime
+SHP,Shop
+SHQ,Southwestern Historical Quarterly
+SHR,Shore
+SHS,Solar Home System
+SHT,Segway Human Transporter
+SHU,Sheffield Hallam University
+SHV,Sutter Hill Ventures
+SHW,Show
+SHX,Shocks
+SHY,Syllable Hyphen
+SHZ,Shenzhen Stock Exchange
+SIA,Semiconductor Industry Association
+SIB,Swiss Institute of Bioinformatics
+SIC,Standard Industrial Classification
+SID,Sports Information Director
+SIE,"Sierra Health Services, Inc."
+SIF,School Interoperability Framework
+SIG,signal
+SIH,Southern Illinois Healthcare
+SII,"Seiko Instruments, Inc."
+SIJ,Sacroiliac joint
+SIK,Seriously Insane Killas
+SIL,Summer Institute of Linguistics
+SIM,SIMulator
+SIN,SINonimo
+SIO,Scripps Institution of Oceanography
+SIP,Statistically Improbable Phrase
+SIQ,Slovenian Institute of Quality and Metrology
+SIR,Serial Infra-Red
+SIS,Sister
+SIT,Situational
+SIU,Southern Illinois University
+SIV,Simian Immunodeficiency Virus
+SIW,Simulation Interoperability Workshop
+SIX,"Singleton, New South Wales, Australia"
+SIY,"Siskiyou Airport Yreka, Yreka Rohner Field, Montague, California USA"
+SIZ,Size
+SJA,Staff Judge Advocate
+SJB,San Juan Bautista
+SJC,San Juan Capistrano
+SJD,"Spangler, Jennings, & Dougherty, P. C."
+SJE,Sedona Journal of Emergence
+SJF,Shortest Job First
+SJG,Steve Jackson Games
+SJH,Simply Junior High
+SJI,Scandinavian Journal of Immunology
+SJJ,St. John's Jesuit High School
+SJK,Sport Jacket
+SJL,Sir John Lawes School
+SJM,St. Jude Medical
+SJN,Saint John Neumann
+SJO,St. Joseph- Ogden High School
+SJP,St. John & Partners
+SJQ,"Sesheke, Zambia"
+SJR,"Shaw Communications, Inc."
+SJS,Stevens-Johnson Syndrome
+SJT,San Juan Basin Royalty Trust
+SJU,St Johns University
+SJV,"San Joaquin Valley, California"
+SJW,St. John's Wort
+SJX,Small Job Express
+SJY,"Seinajoki, Finland"
+SJZ,"San Jorge Island, Azores Islands, Portugal"
+SKA,Square Kilometre Array
+SKB,SmithKline Beecham
+SKC,Salish Kootenai College
+SKD,Schedule
+SKE,Spinnaker Exploration
+SKF,Svenska Kullager Fabriken
+SKG,"Thessaloniki, Greece"
+SKH,Stauffers of Kissel Hill
+SKI,American Skiing Company
+SKJ,Sri Krishna Jewelers
+SKK,Slovak Koruna
+SKL,Skeletal Strength
+SKM,Skimmer
+SKN,Skin
+SKO,"Shopko Stores, Inc."
+SKP,Skip
+SKQ,"Sekakes, Lesotho"
+SKR,SKeleton Rack
+SKS,"Saks, Inc."
+SKT,Socket
+SKU,Stock Keeping Unit
+SKV,"Smyser, Kaplan, & Veselka, L. L. P."
+SKW,"Shafer, Kline, & Warren, Inc."
+SKX,"Skechers U S A, Inc."
+SKY,Skyline Corporation
+SKZ,"Sukkur, Pakistan"
+SLA,Service Level Agreement
+SLB,"Schlumberger, LTD."
+SLC,Salt Lake City
+SLD,Sojusz Lewicy Demokratycznej
+SLE,Systemic Lupus Erythematosus
+SLF,Stiff Little Fingers
+SLG,"Schwabe, Ley, & Greiner"
+SLH,Session Laws of Hawaii
+SLI,Scalable Link Interface
+SLJ,School Library Journal
+SLK,Silk
+SLL,Sierra Leone Leone
+SLM,Service Level Management
+SLN,Sentinel Lymph Node
+SLO,Slow
+SLP,Slip
+SLQ,Standing Liberty Quarter
+SLR,Single Lens Reflex
+SLS,Sodium Lauryl Sulfate
+SLT,Slight
+SLU,Saint Louis University
+SLV,Sleeve
+SLW,Slow
+SLX,Slacks
+SLY,Someone Loves You
+SLZ,Sao Luiz
+SMA,Spinal muscular atrophy
+SMB,Server Message Block
+SMC,Smart Media Card
+SMD,Surface Mount Device
+SME,Subject Matter Expert
+SMF,"Smart & Final, Incorporated"
+SMG,Sarah Michelle Gellar
+SMH,Sydney Morning Herald
+SMI,"Sun Microsystems, Inc."
+SMJ,Saber Marionette J
+SMK,Smoke
+SML,Standard & Poors Small Cap 600 Index
+SMM,Science Museum of Minnesota
+SMN,Scientific & Medical Network
+SMO,Samoan
+SMP,Symmetric MultiProcessing
+SMQ,Stress Management Questionnaire
+SMR,Sites and Monuments Record
+SMS,Systems Management Server
+SMT,Surface Mount Technology
+SMU,Southern Methodist University
+SMV,Science Museum of Virginia
+SMW,Super Mario World
+SMX,Server Macro eXpansion
+SMY,Solar Maximum Year
+SMZ,Sulfamethoxazole
+SNA,Systems Network Architecture
+SNB,Swiss National Bank
+SNC,Servicio Nacional De Caminos
+SND,Sound
+SNE,Sony Corporation
+SNF,Skilled Nursing Facility
+SNG,Sing
+SNH,"Staas & Halsey, L. L. P."
+SNI,"System News, Inc."
+SNJ,Southern New Jersey
+SNK,Sink
+SNL,Saturday Night Live
+SNM,Special Nuclear Material
+SNN,"Smith & Nephew P L C, American Depositary Receipts"
+SNO,Snow
+SNP,Single Nucleotide Polymorphisms
+SNQ,Merrill Lynch & Company Inc. 9% Callable Stock Return Income Debt Securities
+SNR,Stiles & Riabokobylko
+SNS,Sakura & Syaoran Corner
+SNT,Supplemental Needs Trust
+SNU,Seoul National University
+SNV,Sin Nombre virus
+SNW,Snow
+SNX,Snacks
+SNY,Snowy
+SNZ,Standards New Zealand
+SOA,Service-Oriented Architecture
+SOB,Shortness Of Breath
+SOC,System On a Chip
+SOD,Sodium
+SOE,School Of Engineering
+SOF,Soldier Of Fortune
+SOG,Shots On Goal
+SOH,Start of Heading
+SOI,Silicon On Insulator
+SOJ,Stone Of Jordan
+SOK,SOKak
+SOL,Solution
+SOM,Somali
+SON,Song file
+SOO,"Sault Ste. Marie, Michigan"
+SOP,Standard Operating Procedure
+SOQ,Statements Of Qualifications
+SOR,Sex Offender Registry
+SOS,Somali Shilling
+SOT,Society Of Toxicology
+SOU,Sound data
+SOV,Soviet
+SOW,Statement Of Work
+SOX,Socks
+SOY,Sailor Of the Year
+SOZ,"Solenzara, France"
+SPA,Spanish
+SPB,State Personnel Board
+SPC,St. Petersburg College
+SPD,Sozialdemokratische Partei Deutschlands
+SPE,Solid Phase Extraction
+SPF,Sun Protection Factor
+SPG,Supplementary Planning Guidance
+SPH,School of Public Health
+SPI,Stateful Packet Inspection
+SPJ,Society of Professional Journalists
+SPK,Sermaye Piyasasi Kurulu
+SPL,Sample
+SPM,South Park Mexican
+SPN,"Superior Energy Services, Inc."
+SPO,"Spokane, Washington"
+SPP,Species
+SPQ,Social Psychology Quarterly
+SPR,Saving Private Ryan
+SPS,Morgan Stanley Dean Witter & Company
+SPT,Support
+SPU,Seattle Pacific University
+SPV,Special Purpose Vehicle
+SPW,SPX Corporation
+SPX,Sequenced Packet eXchange
+SPY,St Paul Youth
+SPZ,Spetsnaz
+SQA,Software Quality Assurance
+SQB,SQL Query Builder
+SQC,Statistical Quality Control
+SQD,Squadron
+SQE,Software Quality Engineering
+SQF,SQuare Foot
+SQG,Small Quantity Generator
+SQH,Spaghetti SQuash
+SQI,Albanian
+SQJ,Software Quality Journal
+SQK,Squawk
+SQL,Structured Query Language
+SQM,SQuare Meter
+SQN,Squadron
+SQO,Semantic Query Optimization
+SQP,Sequential Quadratic Programming
+SQQ,Soul Quality Quartet
+SQR,Square
+SQS,School Quality Survey
+SQT,Squat
+SQU,SQUare
+SQV,Saquinavir
+SQW,Single Quantum Well
+SQX,SQX Archiver archive format
+SQY,Supplex Quilt-lined Youth-style Jacket
+SQZ,Squeeze
+SRA,Strategic Rail Authority
+SRB,Single Regeneration Budget
+SRC,Source Code File
+SRD,Short Range Device
+SRE,Secretaría de Relaciones Exteriores
+SRF,State Revolving Fund
+SRG,Surgery
+SRH,Southern Region Headquarters
+SRI,Socially Responsible Investment
+SRJ,"San Borja, Bolivia"
+SRK,"Shah Rukh Khan, Actor from India"
+SRL,Sociedad de Responsabilidad Limitada
+SRM,Supplier Relationship Management
+SRN,State Registered Nurse
+SRO,Standing Room Only
+SRP,Suggested Retail Price
+SRQ,Sarasota / Bradenton International Airport - Airport Code for pilots and for booking flights
+SRR,System Requirements Review
+SRS,Savannah River Site
+SRT,Special Response Team
+SRU,Slippery Rock University
+SRV,Stevie Ray Vaughan
+SRW,Super Robot Wars
+SRX,"SRA International, Incorporated  (de-listed)"
+SRY,Sorry
+SRZ,SprachReiseZentrale
+SSA,"Saatchi & Saatchi, P. L. C."
+SSB,Single SideBand
+SSC,School Site Council
+SSD,Social Security Disability
+SSE,Swiss Exchange
+SSF,Single Stock Futures
+SSG,Strategic Studies Group
+SSH,Secure Shell
+SSI,Supplemental Security Income
+SSJ,Super Saiya-Jin
+SSK,Sosyal Sigortalar Kurumu
+SSL,Secure Sockets Layer
+SSM,Sault Ste. Marie
+SSN,Social Security Number
+SSO,Single Sign On
+SSP,Secretaría de Seguridad Pública
+SSQ,Science and the Spiritual Quest
+SSR,Simple Sequence Repeat
+SSS,Student Support Services
+SST,Sea Surface Temperature
+SSU,Sonoma State University
+SSV,Shooting Star Video
+SSW,School of Social Work
+SSX,Snowboard Supercross
+SSY,SunLink Health Systems
+SSZ,SpaceShip Zero
+STA,Station
+STB,Set-Top Box
+STC,Supplemental Type Certificate
+STD,Standard
+STE,Sainte
+STF,Special Task Force
+STG,State Transition Graph
+STH,Something
+STI,Shallow Trench Isolation
+STJ,"St. Jude Medical, Inc."
+STK,Stock
+STL,St. Louis
+STM,Scanning Tunneling Microscopy
+STN,Station
+STO,Store
+STP,Stone Temple Pilots
+STQ,Skill Testing Question
+STR,STRasse
+STS,Sequence Tagged Site
+STT,State Street Corporation
+STU,Studio
+STV,Single Transferable Vote
+STW,School To Work
+STX,Start of Text
+STY,"Spatial Technology, Inc."
+STZ,StrepToZotocin
+SUA,Special Use Airspace
+SUB,subject
+SUC,Sucrose
+SUD,"Abbey National, PLC"
+SUE,Subsurface Utility Engineering
+SUF,"Lamezia Terme, Italy"
+SUG,Suggestion
+SUH,Sir
+SUI,"Sun Communities, Inc."
+SUJ,Sujeto
+SUK,Sukuma
+SUL,"Sui, Pakistan"
+SUM,Summary
+SUN,Sunday
+SUO,Standard Upper Ontology
+SUP,Superior
+SUQ,"Sucua, Ecuador"
+SUR,Sulfonylurea Receptor
+SUS,SUSpension
+SUT,System Under Test
+SUU,"Southern Utah University, Cedar City, Utah"
+SUV,Sport Utility Vehicle
+SUW,Sterne und Weltraum
+SUX,Sumerian
+SUY,"Sudureyri, Iceland"
+SUZ,Suzanne
+SVA,School of Visual Arts
+SVB,Silicon Valley Bank
+SVC,El Salvador Colon
+SVD,Singular Value Decomposition
+SVE,Swedish
+SVF,SmartVersion Files
+SVG,Scalable Vector Graphics
+SVH,Simi Valley Hospital
+SVI,Sludge Volume Index
+SVJ,"Svolvaer, Norway"
+SVK,Slovak Republic
+SVL,Snout Vent Length
+SVM,Support Vector Machines
+SVN,Seven
+SVO,Securities Valuation Office
+SVP,S'il Vous Plaît
+SVQ,Scottish Vocational Qualification
+SVR,Standard Variable Rate
+SVS,Service
+SVT,SupraVentricular Tachycardia
+SVU,Special Victims Unit
+SVV,Solent Vegetarians & Vegans
+SVW,Sioux Valley Wireless
+SVX,"Ekaterinburg, Russia"
+SVY,Somerset Valley YMCA
+SVZ,"San Antonio, Venezuela"
+SWA,Southwest Airlines
+SWB,Subjective Well Being
+SWC,SouthWestern College
+SWD,SouthWestern District
+SWE,Swedish
+SWF,Macromedia Flash file
+SWG,Star Wars Galaxies
+SWH,Speaking of Women's Health
+SWI,Shannon & Wilson Incorporated
+SWJ,SouthWest Journal
+SWK,Social Work
+SWL,Short Wave Listener
+SWM,Silent Wave Motor
+SWN,Southwestern Energy Company
+SWO,Surface Warfare Officer
+SWP,Systematic Withdrawal Plan
+SWQ,Surface Water Quality
+SWR,SüdWestRundfunk
+SWS,Safety Warning System
+SWT,Standard Widget Toolkit
+SWU,Srinakharinwirot University
+SWV,Something Weird Video
+SWW,Smith & Wesson Watch
+SWX,Swiss Exchange
+SWY,"Safeway, Inc."
+SWZ,"Swiss Helvetia Fund, Inc."
+SXA,Single-energy X-Ray Absorptiometry
+SXB,Super EXtended Bus
+SXC,Soft X-ray Camera
+SXD,Single Crystal Diffractometer
+SXE,Straight Edge
+SXF,Síndrome X Frágil
+SXG,Spectrum- X- Gamma
+SXH,"Sehulea, Papua New Guinea"
+SXI,Solar X-ray Imager
+SXJ,Stock Exchange Journal
+SXK,"Saumlaki, Indonesia"
+SXL,Sunoco Logistics Partners
+SXM,"St. Maarten, Netherlands Antilles"
+SXN,Section
+SXO,Squadron Executive Officer
+SXP,Simple Xml Persistence
+SXQ,"Soldotna, Alaska"
+SXR,Soft X-Ray
+SXS,Step By Step
+SXT,Soft X-ray Telescope
+SXU,Saint Xavier University
+SXV,"Salem, India"
+SXW,Self eXplanatory Wording
+SXX,Spades Unknown
+SXY,Swap X and Y Registers
+SXZ,"Siirt, Turkey"
+SYA,SYSCAN International
+SYB,Short Yellow Bus
+SYC,Southern York County
+SYD,Sybron Dental Specialties
+SYE,Slip Yoke Eliminator
+SYF,Singapore Youth Festival
+SYG,State Youth Games
+SYH,"Skyharbour Resources, Ltd."
+SYI,Sell Your Item
+SYJ,School Yard Junkie
+SYK,Spleen Tyrosine Kinase
+SYL,Strapping Young Lad
+SYM,Symbols
+SYN,SYNchronous
+SYO,Sydney Youth Orchestra
+SYP,Syrian Pound
+SYQ,Command and Control Systems
+SYR,Syracuse University
+SYS,System
+SYT,Sight
+SYU,Sustained Yield Unit
+SYV,Santa Ynez Valley
+SYW,Seven Years War
+SYX,"Systemax, Inc."
+SYY,Sysco Corporation
+SYZ,"Shiraz, Iran"
+SZA,Solar Zenith Angle
+SZB,"SouthFirst Bancshares, Inc."
+SZC,Santa Cruz County
+SZD,"Schottenstein, Zox, & Dunn"
+SZE,Sunyaev-Zeldovich Effect
+SZF,Southern Zonal Forum
+SZG,Singapore Zoological Gardens
+SZH,Stichting Zeldzame Huisdierrassen
+SZI,Sub-Zonal Injection
+SZJ,Single Zone Journey
+SZK,Statistical Zero Knowledge
+SZL,Swaziland Lilageni
+SZM,Sendzimir Mills
+SZN,"StrikeZone Minerals (Canada), LTD."
+SZO,Somerville Zoning Ordinance
+SZP,Superficial Zone Protein
+SZQ,"Stratos Lightwave, Inc. options"
+SZR,"Stowell, Zeilenga, & Ruth, L.L.P."
+SZS,Sézary Syndrome
+SZT,Snell- Zimmerman- Timmerman
+SZU,Sihltal Zurich Uetlibergbahn
+SZV,"Suzhou, China"
+SZW,Ministerie van Sociale Zaken en Werkgelegenheid
+SZX,area SiZe in X dimension
+SZY,area SiZe in Y dimension
+SZZ,"Shaughnessy, Zechmeister, & Zechmeister"
+TAA,Trade Adjustment Assistance
+TAB,Tablet
+TAC,The Astronomy Connection
+TAD,Time And Date
+TAE,Trial And Error
+TAF,Terminal Area Forecast
+TAG,Technical Advisory Group
+TAH,Total Abdominal Hysterectomy
+TAI,Temps Atomique International (International Atomic Time)
+TAJ,"Tadji, Papua New Guinea"
+TAK,"Takamatsu, Japan"
+TAL,This American Life
+TAM,Tamil
+TAN,Tangent
+TAO,Türk Anonim Ortakligi
+TAP,Tape
+TAQ,Trades And Quotes
+TAR,Tribunale Amministrativo Regionale
+TAS,Türk Anonim Sirketi
+TAT,Tourism Authority of Thailand
+TAU,Tel-Aviv University
+TAV,Total Asset Visibility
+TAW,Test de Accesibilidad Web
+TAX,Taxation
+TAY,Total Available Youth
+TAZ,Temporary Autonomous Zone
+TBA,To Be Announced
+TBB,Tampa Bay Buccaneers
+TBC,Tuberculosis
+TBD,To Be Decided
+TBE,To Be Established
+TBF,Total body fat
+TBG,Thyroid Binding Globulin
+TBH,To Be Honest
+TBI,Traumatic Brain Injury
+TBJ,Temple Beth Jacob
+TBK,Temple B'rith Kodesh
+TBL,TaBLe
+TBM,Theater Ballistic Missile
+TBN,Trinity Broadcasting Network
+TBO,Tampa Bay Online
+TBP,Tata Binding Protein
+TBQ,Teen Bible Quiz
+TBR,To Be Read
+TBS,Taking Back Sunday
+TBT,Technical Barriers To
+TBU,Tape Backup Unit
+TBV,Total blood volume
+TBW,Total body weight
+TBX,TermBase eXchange
+TBY,"TCBY Enterprises, Inc."
+TBZ,"Tabriz, Iran"
+TCA,Television Critics Association
+TCB,Trusted Computing Base
+TCC,Total Cash Compensation
+TCD,Trinity College Dublin
+TCE,Transaction Cost Economics
+TCF,Trillion Cubic Feet
+TCG,Trading Card Game
+TCH,Teacher
+TCI,Turks and Caicos Islands
+TCJ,The Comics Journal
+TCK,Türkiye Cumhuriyeti Karayollari
+TCL,Tool Command Language
+TCM,Trading & Capital Markets
+TCN,Transportation Control Number
+TCO,Total Cost of Ownership
+TCP,Transmission Control Protocol
+TCQ,Technical Communication Quarterly
+TCR,T Cell Receptor
+TCS,Traction Control System
+TCT,Town & Country Trust
+TCU,Texas Christian University
+TCV,Turtle Creek Valley
+TCW,Total Carat Weight
+TCX,Texas Citrus Exchange
+TCY,The College Years
+TCZ,The Chatting Zone
+TDA,Trade and Development Agency
+TDB,Toronto- Dominion Bank
+TDC,Top Dead Center
+TDD,Test Driven Development
+TDE,Technology Data Exchange
+TDF,Tour De France
+TDG,Transportation of Dangerous Goods
+TDH,Texas Department of Health
+TDI,TüRkiye Denizcilik Isletmeleri
+TDJ,Taylor- DeJongh
+TDK,Turbine Development Kit
+TDL,Tokyo Disneyland
+TDM,Time Division Multiplexing
+TDN,Turkish Daily News
+TDO,Tobacco Documents Online
+TDP,Thermal Design Power
+TDQ,"Tess de Quincey, dancer"
+TDR,Time Domain Reflectometry
+TDS,"Telephone & Data Systems, Incorporated"
+TDT,Terminal Deoxynucleotidyl Transferase
+TDU,Teamsters for a Democratic Union
+TDV,The Digital Village
+TDW,"Tidewater, Inc."
+TDX,Tanadgusix Corporation
+TDY,Temporary Duty
+TDZ,Target Driven Zoning
+TEA,Transportation Equity Act
+TEB,Third Eye Blind
+TEC,Training and Enterprise Council
+TED,Tenders Electronic Daily
+TEE,transesophageal echocardiography
+TEF,Toxic Equivalency Factor
+TEG,Tobacco Education Group
+TEH,Toxicology and Environmental Health
+TEI,Text Encoding Initiative
+TEJ,Texans for Equal Justice
+TEK,"Tektronix, Inc."
+TEL,Telephone
+TEM,Transmission electron microscope
+TEN,Tension
+TEO,"Telecom Argentina, S. A."
+TEP,Teacher Education Program
+TEQ,Toxic Equivalency Quantity
+TER,"Teradyne, Inc."
+TES,Test
+TET,Tone Equal Temperament
+TEU,twenty-foot equivalent unit
+TEV,Tobacco Etch Virus
+TEW,Tibet Environmental Watch
+TEX,Texas
+TEY,Theological Education with Youth
+TEZ,Total Exclusion Zone
+TFA,Teach For America
+TFB,Texas Farm Bureau
+TFC,Team Fortress Classic
+TFD,Task Force Dagger
+TFE,Polytetrafluoroethylene
+TFF,Tears For Fears
+TFG,Timber Framers Guild
+TFH,Tropical Fish Hobbyist
+TFI,"Technology Futures, Inc."
+TFJ,The Family Jordan
+TFK,Thousand Foot Krutch
+TFL,Transport For London
+TFM,Transportacion Ferroviaria Mexicana
+TFN,TheForce.Net
+TFO,Tandem Free Operation
+TFP,Total Factor Productivity
+TFQ,Track & Field QuickScorer
+TFR,Total Fertility Rate
+TFS,Thanks For Sharing
+TFT,Thin Film Transistor
+TFU,Tohoku Fukushi University
+TFV,Tenofovir
+TFW,Tactical Fighter Wing
+TFX,"Teleflex, Inc."
+TFY,Truth for Youth
+TFZ,The Frag Zone
+TGA,Transient Global Amnesia
+TGB,TheGameBox.Net
+TGC,TüRkiye Gazeteciler Cemiyeti
+TGD,The Great Divide
+TGE,Transmissible GastroEnteritis
+TGF,Transforming Growth Factor
+TGG,The Great Gatsby
+TGH,Tampa General Hospital
+TGI,"Triumph Group, Inc."
+TGJ,Guatemala Radio Station
+TGK,Tajik
+TGL,Tagalog
+TGM,Thesaurus for Graphic Materials
+TGN,Thesaurus of Geographic Names
+TGO,The Great One
+TGP,Thumbnail Gallery Post
+TGQ,Treatment Goals Questionnaire
+TGR,Teton Gravity Research
+TGS,Tokyo Game Show
+TGT,Target
+TGU,Transglobal Underground
+TGV,Train a Grande Vitesse
+TGW,The Golf Warehouse
+TGX,Theragenics Corporation
+TGY,Tryptone Glucose Yeast
+TGZ,Total Gamer Zone
+THA,TüRk Haberler Ajansi
+THB,Thai Baht
+THC,Total HydroCarbons
+THD,Total Harmonic Distortion
+THE,Thermometer
+THF,TetraHydroFuran
+THG,Tom's Hardware Guide
+THH,The Horse's Hoof
+THI,Texas Heart Institute
+THJ,Turks Head Jugglers
+THK,TüRk Hava Kurumu
+THL,Trans-Hybrid Loss
+THM,TriHaloMethane
+THN,Thin
+THO,"Thor Industries, Inc."
+THP,Timber Harvest Plan
+THQ,Toy Head Quarters
+THR,Total Hip Replacement
+THS,Türk Havacilik Sanayii
+THT,"Testa, Hurwitz, & Thibeault , LLP."
+THU,Thursday
+THV,Tar Heel Voices
+THW,"Todd, Holloway, & Ward, P.C."
+THX,Thanks
+THY,TüRk Hava Yollari
+THZ,TeraHertZ
+TIA,Telecommunications Industry Association
+TIB,Tibetan
+TIC,Tourist Information Centre
+TID,Ter In Die  (Three Times a Day)
+TIE,Technology in Education
+TIF,Tiffany & Company
+TIG,Tungsten Inert Gas
+TIH,"Toromont Industries, LTD."
+TII,"Thomas Industries, Inc."
+TIJ,Thinking In Java
+TIK,Trade & Investment Kwazulu - Natal
+TIL,Until
+TIM,Türkiye Ihracatçilar Merkezi
+TIN,Taxpayer Identification Number
+TIO,Telecommunications Industry Ombudsman
+TIP,Transportation Improvement Program
+TIQ,Therapy Impact Questionnaire
+TIR,Total Internal Reflection
+TIS,Trusted Information Systems
+TIT,Tokyo Institute of Technology
+TIU,Trinity International University
+TIV,Tivoli
+TIW,Titanium Tungsten
+TIX,Tickets
+TIY,TIYatro
+TIZ,Technologie- und Innovationszentrum
+TJA,Thai Journalists Association
+TJB,Tijuana Brass
+TJC,Tyler Junior College
+TJD,Truncated Julian Date
+TJE,The Jewish Exchange
+TJF,The Jitsu Foundation
+TJG,Theater Junge Generation
+TJH,Turkish Journal of Haematology
+TJI,This Just In
+TJJ,The Jerusalem Journey
+TJK,Tajikistan
+TJL,The Jackson Laboratory
+TJM,Technical Job Management
+TJN,Teacher Job Network
+TJO,The Jedi Order
+TJP,"Tokyo, Japan"
+TJQ,Tai Ji Quan
+TJR,Total Joint Replacement
+TJS,"Tucker, Johnston, & Smelzer, Inc."
+TJT,The Jerusalem Times
+TJU,Thomas Jefferson University
+TJV,Transat Jaques Vabre
+TJW,Thomas J. Watson
+TJX,"T J X Companies, Inc. ( T J Maxx)"
+TJY,Talented Joseph Youselin
+TJZ,Cameroon Radio
+TKA,Total knee arthroplasty
+TKB,Technical Knowledge Base
+TKC,Team Karate Centers
+TKD,Tae Kwon Do
+TKE,Tau Kappa Epsilon
+TKF,"Turkish Investment Fund, Inc."
+TKG,The Kelsey Group
+TKH,Twentsche Kabel Holding N. V.
+TKI,Türkiye K
+TKJ,Taylorsville/ Kearns Journal
+TKK,The Knarley Knews
+TKL,The Kitchen Link
+TKM,"Merrill Lynch & Company, Inc."
+TKN,Total Kjeldahl Nitrogen
+TKO,Technical Knock Out
+TKP,Taxonomic Key Program
+TKQ,"Kigoma, Tanzania"
+TKR,Total Knee Replacement
+TKS,Thanks
+TKT,Ticket
+TKU,"Turku, Finland"
+TKV,Telekommunikations-KundenschutzVerordnung
+TKW,"Talbot, Korvola, & Warwick, L. L. P."
+TKX,The Knowledge eXchange
+TKY,"Turkey Creek, Western Australia, Australia"
+TKZ,The Knowledge Zone
+TLA,Text Link Ads
+TLB,Translation Lookaside Buffer
+TLC,Tratado de Libre Comercio
+TLD,Top Level Domain
+TLE,Temporal Lobe Epilepsy
+TLF,"Leather Factory, Inc."
+TLG,Thesaurus Linguae Graecae
+TLH,The Lutheran Hymnal
+TLI,Transport Layer Interface
+TLJ,The Longest Journey
+TLK,The Lion King
+TLL,Teaching & Learning Laboratory
+TLM,Telemetry
+TLN,The Library Network
+TLO,Texas Legislature Online
+TLP,Tension Leg Platform
+TLQ,Transformational Leadership Questionnaire
+TLR,Target Lesion Revascularization
+TLS,Transport Layer Security
+TLT,Teaching Learning And Technology
+TLU,Texas Lutheran University
+TLV,Threshold Limit Value
+TLW,The Last Word
+TLX,TELEX (TELegraph EXchange)
+TLY,Tally
+TLZ,Top Loading Zoom Camera
+TMA,Texas Medical Association
+TMB,Time Machine Boost
+TMC,Traffic Message Channel
+TMD,Theater Missile Defense
+TME,Total Mesorectal Excision
+TMF,The Motley Fool
+TMG,The Master Genealogist
+TMH,Tamashek
+TMI,Three Mile Island
+TMJ,Temporo-Mandibular Joint
+TMK,Torchmark Corporation
+TML,Toronto Maple Leafs
+TMM,Transient Multimon Manager
+TMN,Telecommunications Management Network
+TMO,Thermo Electron Corporation
+TMP,Temporary file
+TMQ,Tuesday Morning Quarterback
+TMR,Training and Mobility of Researchers
+TMS,Transcranial Magnetic Stimulation
+TMT,Trail Making Test
+TMU,"Tooling &#38; Manufacturing Unlimited, Incorporated"
+TMV,Tobacco Mosaic Virus
+TMW,Test & Measurement World
+TMX,Timex
+TMY,Typical Meteorological Year
+TMZ,Tram- Museum Zurich
+TNA,Total Nonstop Action
+TNB,Thomas & Betts Corporation
+TNC,The Nature Conservancy
+TND,Tunisian Dinar
+TNE,The Next Episode
+TNF,Tumor Necrosis Factor
+TNG,Training
+TNH,The New Homemaker
+TNI,Tahitian Noni International
+TNJ,Toronto & Nipissing Railway
+TNK,Tank
+TNL,"Technitrol, Inc."
+TNM,"Thomas Nelson, Inc."
+TNN,Trinidad & Tobago News Network
+TNO,The Netherlands Organization
+TNP,Tratado de No Proliferación
+TNQ,Tropical North Queensland
+TNR,Times New Roman
+TNS,Tension
+TNT,TriNitroToluene
+TNU,Trevecca Nazarene University
+TNV,Tobacco Necrosis Virus
+TNW,"Thorpe, North, & Western"
+TNX,Thanks
+TNY,Tiny
+TNZ,Telecom New Zealand
+TOA,Trials Of Atlantis
+TOB,Take Over Bid
+TOC,Table Of Contents
+TOD,Tour Of Duty
+TOE,Theory Of Everything
+TOF,Time Of Flight
+TOG,Tonga ( Nyasa)
+TOH,This Old House
+TOI,The Times Of India
+TOJ,Tribe Of Judah
+TOK,Theory Of Knowledge
+TOL,TOLerance
+TOM,Thomas
+TON,IEEE/ACM Transactions On Networking
+TOO,"TOO, Inc."
+TOP,TOPçu
+TOQ,The Occidental Quarterly
+TOR,Term Of Reference
+TOS,Tales Of Symphonia
+TOT,TOTal
+TOU,Terms of Use
+TOV,Temple Of Vtec
+TOW,The One With
+TOX,Toxic
+TOY,Thinking Of You
+TOZ,Troy ounce
+TPA,Tissue Plasminogen Activator
+TPB,Trailer Park Boys
+TPC,Tournament Players Club
+TPD,Tons Per Day
+TPE,Travaux Personnels Encadres
+TPF,Transaction Processing Facility
+TPG,Texas Pacific Group
+TPH,Total Petroleum Hydrocarbons
+TPI,Tracks Per Inch
+TPJ,The Plant Journal
+TPK,Turnpike
+TPL,Trust for Public Land
+TPM,Trusted Platform Module
+TPN,Total Parenteral Nutrition
+TPO,Thyroid Peroxidase
+TPP,Thiamine PyroPhosphate
+TPQ,Threshold Planning Quantity
+TPR,Termination of Parental Rights
+TPS,Toyota Production System
+TPT,Twin Cities Public Television
+TPU,Text Processing Utility
+TPV,Third Party Verification
+TPW,Texas Parks and Wildlife
+TPX,TreePad X Enterprise Server
+TPY,Tons Per Year
+TPZ,Topaz
+TQA,Teaching Quality Assessment
+TQB,Textile Quota Board
+TQC,Total Quality Control
+TQD,Target Quit Date
+TQE,Total Quality Education
+TQF,Top Quality Freeware
+TQG,Tactical Quiet Generator
+TQH,"Tr&#7847;n Quang H&#7843;i, Vietnam"
+TQI,Total Quality Index
+TQJ,Top Qualifying Junior
+TQK,Tr&#7847;n Qu&#7889;c Kháng
+TQL,Total Quality Leadership
+TQM,Total Quality Management
+TQN,Tr&#7847;n Qu&#7843;ng Nam
+TQO,Total Quality Organization
+TQP,The Quotes Page
+TQQ,"Technical, Quantitative, & Qualitative"
+TQR,ToneQuest Report
+TQS,Télévision Quatre Saisons
+TQT,Tri&#7879;u Quy&#7871;t Th&#7855;ng
+TQU,Transferzentrum Qualität und Umwelt
+TQV,Technology Qualification Vehicle
+TQW,Total Quality Warehouse
+TQX,Total Quality eXperience
+TQY,"Tanqueray Resources, LTD."
+TQZ,Tweeter Home Entertainment Group Options
+TRA,Trade
+TRB,Transportation Research Board
+TRC,Total Resource Cost
+TRD,Tried
+TRE,Trinity Railway Express
+TRF,Tuned Radio Frequency
+TRG,The Resource Group
+TRH,Thyrotropin Releasing Hormone
+TRI,Toxics Release Inventory
+TRJ,Textile Research Journal
+TRK,Track
+TRL,Turkish Lira
+TRM,Technical Reference Model
+TRN,Training
+TRO,Temporary Restraining Order
+TRP,Tryptophan
+TRQ,Tariff Rate Quota
+TRR,Test Readiness Review
+TRS,Teachers Retirement System
+TRT,Türkiye Radyo Televizyon
+TRU,Toys R Us
+TRV,Technical Remote Viewing
+TRW,"TRW, Inc."
+TRX,Transaction
+TRY,New Turkish Lira
+TRZ,"Trizec Properties, Inc."
+TSA,Transportation Security Administration
+TSB,Technical Service Bulletins
+TSC,Tuberous sclerosis complex
+TSD,Tay-Sachs Disease
+TSE,TüRk Standartlari EnstitüSü
+TSF,The Site Fights
+TSG,Sabre Holdings Corporation
+TSH,Thyroid Stimulating Hormone
+TSI,TüRkiye Saati Ile
+TSJ,"Tsushima, Japan"
+TSK,TüRk Silahli Kuvvetleri
+TSL,Texas State Library
+TSM,Tivoli Storage Manager
+TSN,The Sports Network
+TSO,The Sims Online
+TSP,Traveling Salesman Problem
+TSQ,ODBC script
+TSR,Terminate and Stay Resident
+TSS,Total Suspended Solids
+TST,"Trang, Thailand"
+TSU,Texas Southern University
+TSV,Tab Separated Values
+TSW,Television South- West
+TSX,Toronto Stock eXchange
+TSY,Telephony Server
+TSZ,Temporary Security Zone
+TTA,Time Triggered Architecture
+TTB,TüRk Tabipleri Birligi
+TTC,Trying To Conceive
+TTD,Trinidad & Tobago Dollar
+TTE,Toyota Team Europe
+TTF,Thyroid Transcription Factor
+TTG,"Tutogen Medical, Inc."
+TTH,Twisting The Hellmouth
+TTI,Texas Transportation Institute
+TTJ,"Tottori, Japan"
+TTK,Turk Tarih Kurumu
+TTL,"Tax, Title, & License"
+TTM,Trailing Twelve Months
+TTN,Titan Corporation
+TTO,Total Toxic Organics
+TTP,Thrombotic Thrombocytopenic Purpura
+TTQ,Tara Taylor Quinn
+TTR,Trade & Transport Review
+TTS,Text To Speech
+TTT,To The Top
+TTU,Texas Tech University
+TTV,Totally Tasteless Video
+TTW,Through The Web
+TTX,Tetrodotoxin
+TTY,TeleTYpewriter
+TTZ,The Tech Zone
+TUA,"Tulcan, Ecuador"
+TUB,Technischen Universitaet Berlin
+TUC,Trade Union Congress
+TUD,Technische Universität Dresden
+TUE,Tuesday
+TUF,Tough
+TUG,Tex Users Group
+TUH,Tactical Utility Helicopter
+TUI,Text User Interface
+TUJ,Temple University Japan
+TUK,Turkmen
+TUL,Transnationale Universiteit Limburg
+TUM,Stomach
+TUN,Tuning
+TUO,"Taupo, New Zealand"
+TUP,Telephone User Part
+TUQ,Tenants' Union of Queensland
+TUR,Turkish
+TUS,Tipta Uzmanlik Sinavi
+TUT,Tutorial
+TUU,Tasmania University Union
+TUV,Technischer Überwachungs-Verein
+TUW,The Unforgiven Warriors
+TUX,Tuxedo
+TUY,"Tulum, Mexico"
+TUZ,"Tucuma, PA, Brazil"
+TVA,Taxe sur la Valeur Ajoutée
+TVB,Ti Voglio Bene
+TVC,Total Variable Costs
+TVD,True Vertical Depth
+TVE,Televisión Española
+TVF,Templeton Vietnam & Southwest Asia Fund
+TVG,TotalVideoGames.com
+TVH,Taxe de Vente Harmonisée
+TVI,Technical Vocational Institute
+TVJ,TeleVision Jamaica
+TVK,"Tiszai Vegyi Kombinat, RT"
+TVL,Travel
+TVM,Time Value of Money
+TVN,Television Newport
+TVO,Tennessee Valley Outdoors
+TVP,Textured Vegetable Protein
+TVQ,Trade Vendor Quarterly
+TVR,The Vocabula Review
+TVS,Television South
+TVT,Tee Vee Toons
+TVU,Thames Valley University
+TVV,TeleVisión Valenciana
+TVW,TeleVision Washington
+TVX,"T V X Gold, Inc."
+TVY,"Dawe, Myanmar"
+TVZ,Townes Van Zandt
+TWA,Time Weighted Average
+TWB,Toronto Women's Bookstore
+TWC,Teachers & Writers Collaborative
+TWD,Taiwan Dollar
+TWE,Test of Written English
+TWF,The Wisdom Fund
+TWG,Technical Working Group
+TWH,Tennessee Walking Horse
+TWI,Twi
+TWJ,Thuner Wirtschaftskammer der Jungen
+TWK,Technische Werke Kaiserslautern
+TWL,Twirl
+TWM,Tab Window Manager
+TWN,Twin
+TWO,Tsunami Warning And Observations
+TWP,The Washington Post
+TWQ,The Washington Quarterly
+TWR,Tower
+TWS,Thermal Weapon Sight
+TWT,The Washington Times
+TWU,Transport Workers Union
+TWV,The Witches' Voice
+TWW,"Terremark Worldwide, Inc."
+TWX,TeletypeWriter eXchange service
+TWY,TaxiWay
+TWZ,Tweezers
+TXA,Tribune Company
+TXB,Thromboxane-B
+TXC,TranSwitch Corporation
+TXD,Transmit Data
+TXE,Transmitter Empty
+TXF,The X Files
+TXG,Taxiing
+TXH,Transmit High
+TXI,"Texas Industries, Inc."
+TXJ,Textranjero
+TXK,Kardplay 1.62 File
+TXL,"Tegel, Germany"
+TXM,Texas Mafia
+TXN,Transaction
+TXO,Transmit Oscillator
+TXP,Tax Payment
+TXQ,Transaction Queue
+TXR,Texas Raceway
+TXS,Technology Exhibition & Symposium
+TXT,Text
+TXU,"Tabou, Cote d'Ivoire"
+TXV,Thermal eXpansion Valve
+TXW,Texas- Western
+TXX,DataPerfect Text Storage
+TXY,"Transfer, from X to Y"
+TXZ,Triax CaRTS III Trust
+TYA,Ten Years After
+TYB,Train Your Business
+TYC,"Tyco International, LTD."
+TYD,ThenYouDiscover.Com
+TYE,Teach Yourself Esperanto
+TYF,Tell Your Friends
+TYG,Tiger
+TYH,Tyrosine Hydroxylase
+TYI,Teach Yourself Irish
+TYJ,Thank You Jesus
+TYK,Tyrosine Kinase
+TYL,"Tyler Technologies, Inc."
+TYM,Take Your Money
+TYN,Tyndall
+TYO,"Tokyo, Japan"
+TYP,Type
+TYQ,"Indianapolis Terry Airport, Indianapolis, Indiana USA"
+TYR,The Young Riders
+TYS,McGhee Tyson Airport
+TYT,Toyota
+TYU,Tyuleniy (virus)
+TYV,Tuvinian
+TYW,Tile Your World
+TYX,Thirty Year Bond index
+TYY,Teach Yourself Yoga
+TYZ,Two Yellow Zebras
+TZA,Tanzania
+TZB,Tappan Zee Bridge
+TZC,Time Zone Converter
+TZD,Thiazolidinedione
+TZE,Total Zone Exclusion
+TZF,Through-Zero Flanger
+TZG,The Zitter Group
+TZH,TrizecHahn Corporation
+TZI,Technologie- Zentrum Informatik
+TZJ,Tubular Zippered Joint
+TZK,Tajikistan
+TZL,Technologiezentrum Linth
+TZM,"Tizimin, Mexico"
+TZN,Tarzan
+TZO,Tzolkin
+TZP,Tetragonal Zirconia Polycrystal
+TZQ,TranSwitch Corporation Options
+TZR,Teazer
+TZS,Tanzanian Shilling
+TZT,Tallon Zek Times
+TZU,Technologiezentrum Umweltschutz
+TZV,Trizivir
+TZW,Technologiezentrum Wasser
+TZX,"Trabzon, Turkey"
+TZY,Transfer Z to Y
+TZZ,"Travis VOR (VHF Omni-Range navigational station), Fairfield, California USA"
+UAA,University of Alaska Anchorage
+UAB,Universitat Autonoma de Barcelona
+UAC,United American Committee
+UAD,Universal Audio
+UAE,United Arab Emirates
+UAF,University of Alaska Fairbanks
+UAG,Universidad Autónoma de Guadalajara
+UAH,Ukraine Hryvnia
+UAI,University Admissions Index
+UAJ,Union of Armenian Journalists
+UAK,"Narsarsuaq, Greenland"
+UAL,UAL Corporation (United Airlines)
+UAM,Universidad Autónoma de Madrid
+UAN,Urea Ammonium Nitrate
+UAO,Uluslararas&#305; Af Örgütü
+UAP,User Account Protection
+UAQ,Universidad Autónoma de Querétaro
+UAR,United Arab Republic
+UAS,University of Alaska Southeast
+UAT,"United Auto & Truck, Inc."
+UAU,Unix for Advanced Users
+UAV,Unmanned Aerial Vehicle
+UAW,United Auto Workers
+UAX,Unicode Standard AnneX
+UAY,United Action for Youth
+UAZ,University of Arizona
+UBA,United Benefit Advisors
+UBB,Ultimate Bulletin Board
+UBC,University of British Columbia
+UBD,Understanding By Design
+UBE,Unsolicited Bulk E-Mail
+UBF,University Bible Fellowship
+UBG,UTAMA Banking Group
+UBH,United Behavioral Health
+UBI,United Bicycle Institute
+UBJ,Union Bank of Jamaica
+UBK,"United Bank of Kuwait, P. L. C."
+UBL,United Bank Limited
+UBM,"United Business Media, P. L. C."
+UBN,Unity Broadcasting Network
+UBO,Urban Box Office
+UBP,Union Bancaire Privée
+UBQ,Ubiquity
+UBR,Unspecified Bit Rate
+UBS,Union Bank of Switzerland
+UBT,Union Bank & Trust
+UBU,University of Bristol Union
+UBV,Universidad Bolivariana de Venezuela
+UBW,Urban Bush Women
+UBX,Ultrabithorax
+UBY,Upward Bound Youth
+UBZ,UmweltBiotechnologisches Zentrum
+UCA,University of Central Arkansas
+UCB,"University of California, Berkeley"
+UCC,Uniform Commercial Code
+UCD,University College Dublin
+UCE,Unsolicited Commercial E-mail
+UCF,University of Central Florida
+UCG,Universidade Católica de Goiás
+UCH,Universidad Cardenal Herrera
+UCI,"University of California, Irvine"
+UCJ,University Council of Jamaica
+UCK,Ushtria Clirimtare e Kosoves (Kosovo Liberation Army)
+UCL,University College London
+UCM,Unified Change Management
+UCN,Universidad Católica del Norte
+UCO,Universidad de Córdoba
+UCP,United Cerebral Palsy
+UCQ,University of Central Queensland
+UCR,Universidad de Costa Rica
+UCS,Universal Multiple-Octet Coded Character Set
+UCT,Uluslararasi Çalisma Teskilati
+UCU,Universidad Católica del Uruguay
+UCV,Universidad Central De Venezuela
+UCW,United Church Women
+UCX,Unemployment Compensation for Ex-Servicemembers
+UCY,University of Cyprus
+UCZ,Universal Cyber Zone
+UDA,Unified Driver Architecture
+UDB,Universal DataBase
+UDC,University of the District of Columbia
+UDD,Urban Development Department
+UDE,Upper Deck Entertainment
+UDF,Union pour la démocratie française
+UDG,Uracil- DNA Glycosylase
+UDH,User Data Header
+UDI,UtlendingsDIrektoratet
+UDJ,Union Deutscher Jazzmusiker
+UDK,Us&#322;ugi i Doradztwo Komputerowe
+UDL,Universitat de Lleida
+UDM,"University of Detroit, Mercy"
+UDN,Uren. Dagen. Nachten
+UDO,Ultra Density Optical storage
+UDP,User Datagram Protocol
+UDQ,University of Dayton Quarterly
+UDR,"United Dominion Realty Trust, Inc."
+UDS,Urine Drug Screen
+UDT,User Defined Type
+UDU,Unione Degli Universitari
+UDV,Ulric de Varens
+UDW,"U S Dataworks, Inc."
+UDX,Utility Dog Excellent
+UDY,Union of Drugfree Youth
+UDZ,Urban Development Zoning
+UEA,University of East Anglia
+UEB,University Employment Information & Guidance Bureau
+UEC,Utah Electronic College
+UED,Union Electronic Distributors
+UEE,University Extended Education
+UEF,Uninsured Employers Fund
+UEG,Ultimate Entertainment Group
+UEH,Ultimate Edge & Hardscapes Company
+UEI,"Universal Electronics, Inc."
+UEJ,Urban Education Journal
+UEK,Underwater Electric Kite
+UEL,Upper Explosive Limit
+UEM,Universidade Estadual de Maringa
+UEN,Utah Education Network
+UEO,Unión Europea Occidental
+UEP,Unequal Error Protection
+UEQ,MicroEQuivalents
+UER,Unión Europea de Radiodifusión
+UES,Universidad de El Salvador
+UET,University Of Engineering And Technology
+UEU,Udako Euskal Unibertsitatea
+UEV,Ubiquitin E2 Variant
+UEW,Universal Eclectic Wicca
+UEX,UEX Corporation
 UEY,
 UEZ,
 UFA,
