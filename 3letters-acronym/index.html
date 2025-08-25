@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3-Letter Acronyms Grid</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2em; background: #f9f9f9; }
+        h1 { text-align: center; }
+        #acronymGrid { width: 100%; border-collapse: collapse; margin-top: 2em; }
+        #acronymGrid th, #acronymGrid td { border: 1px solid #ccc; padding: 8px 12px; }
+        #acronymGrid th { background: #0074d9; color: #fff; }
+        #acronymGrid tr:nth-child(even) { background: #f2f2f2; }
+        #acronymGrid tr:hover { background: #e6f7ff; }
+        .search-box { margin: 1em 0; text-align: center; }
+        .search-box input { padding: 6px 12px; width: 250px; font-size: 1em; }
+    </style>
+</head>
+<body>
+    <h1>3-Letter Acronyms</h1>
+    <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search acronym or meaning...">
+    </div>
+    <table id="acronymGrid">
+        <thead>
+            <tr>
+                <th>Acronym</th>
+                <th>Meaning</th>
+            </tr>
+        </thead>
+        <tbody id="acronymBody">
+            <!-- Data will be inserted here -->
+        </tbody>
+    </table>
+    <script>
+    async function fetchCSV() {
+        const response = await fetch('acronym.acronym.csv');
+        return await response.text();
+    }
+    function parseCSV(text) {
+        const lines = text.split(/\r?\n/).filter(Boolean);
+        const rows = lines.slice(1).map(line => {
+            // Handles quoted commas
+            const match = line.match(/^([^,]+),"?(.*?)"?$/);
+            if (match) return { id: match[1], name: match[2] };
+            return null;
+        }).filter(Boolean);
+        return rows;
+    }
+    function renderTable(rows) {
+        const tbody = document.getElementById('acronymBody');
+        tbody.innerHTML = rows.map(row =>
+            `<tr><td>${row.id}</td><td>${row.name}</td></tr>`
+        ).join('');
+    }
+    function filterTable(rows, query) {
+        query = query.toLowerCase();
+        return rows.filter(row =>
+            row.id.toLowerCase().includes(query) ||
+            row.name.toLowerCase().includes(query)
+        );
+    }
+    document.addEventListener('DOMContentLoaded', async () => {
+        const csvText = await fetchCSV();
+        const rows = parseCSV(csvText);
+        renderTable(rows);
+        document.getElementById('searchInput').addEventListener('input', function() {
+            renderTable(filterTable(rows, this.value));
+        });
+    });
+    </script>
+</body>
+</html>
