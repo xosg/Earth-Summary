@@ -15,7 +15,7 @@
 // download ollama, install qwen3:8b first
 
 // node.js > 24.5.0
-// NODE_USE_ENV_PROXY=1 HTTP_PROXY=http://127.0.0.1:7890 HTTPS_PROXY=http://127.0.0.1:7890 NO_PROXY=localhost,127.0.0.1 node mongo.js
+// NODE_USE_ENV_PROXY=1 HTTP_PROXY=http://127.0.0.1:7890 HTTPS_PROXY=http://127.0.0.1:7890 NO_PROXY=localhost,127.0.0.1 node ./download.js
 
 
 
