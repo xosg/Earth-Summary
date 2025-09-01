@@ -7,13 +7,34 @@
     <style>
         body { font-family: Arial, sans-serif; margin: 2em; background: #f9f9f9; }
         h1 { text-align: center; }
-        #acronymGrid { width: 100%; border-collapse: collapse; margin-top: 2em; }
-        #acronymGrid th, #acronymGrid td { border: 1px solid #ccc; padding: 8px 12px; }
-        #acronymGrid th { background: #0074d9; color: #fff; }
-        #acronymGrid tr:nth-child(even) { background: #f2f2f2; }
-        #acronymGrid tr:hover { background: #e6f7ff; }
         .search-box { margin: 1em 0; text-align: center; }
         .search-box input { padding: 6px 12px; width: 250px; font-size: 1em; }
+
+        /* Responsive multi-column grid */
+        .acronym-grid-container {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            overflow-x: auto;
+            gap: 0.5em;
+            margin-top: 2em;
+        }
+        table.acronymGrid {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+        }
+        table.acronymGrid th, table.acronymGrid td {
+            border: 1px solid #ccc;
+            padding: 8px 12px;
+        }
+        table.acronymGrid th {
+            background: #0074d9;
+            color: #fff;
+        }
+        table.acronymGrid tr:nth-child(even) { background: #f2f2f2; }
+        table.acronymGrid tr:hover { background: #e6f7ff; }
     </style>
 </head>
 <body>
@@ -21,17 +42,9 @@
     <div class="search-box">
         <input type="text" id="searchInput" placeholder="Search acronym or meaning...">
     </div>
-    <table id="acronymGrid">
-        <thead>
-            <tr>
-                <th>Acronym</th>
-                <th>Meaning</th>
-            </tr>
-        </thead>
-        <tbody id="acronymBody">
-            <!-- Data will be inserted here -->
-        </tbody>
-    </table>
+    <div class="acronym-grid-container" id="acronymGridContainer">
+        <!-- Tables will be inserted here -->
+    </div>
     <script>
     async function fetchCSV() {
         const response = await fetch('acronym.acronym.csv');
@@ -48,10 +61,35 @@
         return rows;
     }
     function renderTable(rows) {
-        const tbody = document.getElementById('acronymBody');
-        tbody.innerHTML = rows.map(row =>
-            `<tr><td>${row.id}</td><td>${row.name}</td></tr>`
-        ).join('');
+        const container = document.getElementById('acronymGridContainer');
+        container.innerHTML = '';
+        const minTableWidth = 320;
+        let tableCount = Math.max(1, Math.floor(window.innerWidth / minTableWidth));
+        let fits = false;
+        while (!fits && tableCount > 1) {
+            container.innerHTML = '';
+            const rowsPerTable = Math.ceil(rows.length / tableCount);
+            for (let t = 0; t < tableCount; t++) {
+                const start = t * rowsPerTable;
+                const end = start + rowsPerTable;
+                const tableRows = rows.slice(start, end);
+                let table = `<table class="acronymGrid"><thead><tr><th>Acronym</th><th>Meaning</th></tr></thead><tbody>`;
+                table += tableRows.map(row => `<tr><td>${row.id}</td><td>${row.name}</td></tr>`).join('');
+                table += '</tbody></table>';
+                container.innerHTML += table;
+            }
+            // Check if overflow occurs
+            fits = container.scrollWidth <= container.clientWidth + 1; // +1 for rounding
+            if (!fits) tableCount--;
+        }
+        if (!fits) {
+            // If only 1 column fits, render as single table
+            container.innerHTML = '';
+            let table = `<table class="acronymGrid"><thead><tr><th>Acronym</th><th>Meaning</th></tr></thead><tbody>`;
+            table += rows.map(row => `<tr><td>${row.id}</td><td>${row.name}</td></tr>`).join('');
+            table += '</tbody></table>';
+            container.innerHTML = table;
+        }
     }
     function filterTable(rows, query) {
         query = query.toLowerCase();
@@ -67,6 +105,7 @@
         document.getElementById('searchInput').addEventListener('input', function() {
             renderTable(filterTable(rows, this.value));
         });
+    // Removed window resize event to prevent lag
     });
     </script>
 </body>
