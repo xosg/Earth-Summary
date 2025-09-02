@@ -29,24 +29,28 @@ const {
 async function cycle(url) {
 
 
-    // await new Promise(r => setTimeout(r, 2000));
-    // await mouse.getPosition().then(position => {
-    //     console.log(position);
-    // });
-    // return
-
-
-    // 打开小红书创作平台 https://creator.xiaohongshu.com/publish
-    // 导入链接 按钮
-    await mouse.move(straightTo({ x: 493, y: 678 }));
-
+    await new Promise(r => setTimeout(r, 1500));
+    // 浏览器地址栏
+    await mouse.move(straightTo({ x: 926, y: 53 }));
     await new Promise(r => setTimeout(r, 500));
+    await mouse.click(0);
+    await clipboard.setContent('https://creator.xiaohongshu.com/publish/publish?source=official&from=menu&target=article');
+    // input the address
+    await keyboard.pressKey(Key.LeftControl, Key.V); // For Windows and Linux
+    await keyboard.releaseKey(Key.LeftControl, Key.V); // For Windows and Linux
+    // Enter
+    await keyboard.pressKey(Key.Enter); // Press Enter
+    await keyboard.releaseKey(Key.Enter);
+    // wait for page to load
+    await new Promise(r => setTimeout(r, 6_000));
 
-    await mouse.click(0); // Left click
-
+    // 导入链接 button
+    await mouse.move(straightTo({ x: 493, y: 678 }));
+    await new Promise(r => setTimeout(r, 500));
+    await mouse.click(0); 
     await new Promise(r => setTimeout(r, 2000));
 
-    // 中间的链接输入框
+    // the new textarea in the middle of the page
     await mouse.move(straightTo({ x: 842, y: 530 }));
     await new Promise(r => setTimeout(r, 500));
     await mouse.click(0);
@@ -56,7 +60,7 @@ async function cycle(url) {
     await keyboard.pressKey(Key.LeftControl, Key.V); // For Windows and Linux
     await keyboard.releaseKey(Key.LeftControl, Key.V); // For Windows and Linux
     // 此时，url已经被粘贴到输入框中
-    
+
     await new Promise(r => setTimeout(r, 800));
 
     // 一键排版 按钮
@@ -65,8 +69,8 @@ async function cycle(url) {
     await new Promise(r => setTimeout(r, 500));
 
     await mouse.click(0); // Left click
-
-    await new Promise(r => setTimeout(r, 30_000));
+    // 等待排版。。。
+    await new Promise(r => setTimeout(r, 33_000));
 
     // 下一步 按钮
     await mouse.move(straightTo({ x: 312, y: 958 }));
@@ -82,13 +86,13 @@ async function cycle(url) {
 
     // 发布完后会5秒自动跳转到下方链接：
     // https://creator.xiaohongshu.com/publish/publish?source=official&published=true
-    await new Promise(r => setTimeout(r, 10_000));
+    await new Promise(r => setTimeout(r, 8_000));
     // 此时3个标签页：上传视频（选中）、上传图文、写长文
     // 写长文 按钮
-    await mouse.move(straightTo({ x: 499, y: 207 }));
-    await new Promise(r => setTimeout(r, 800));
-    await mouse.click(0);
-    await new Promise(r => setTimeout(r, 1000));
+    // await mouse.move(straightTo({ x: 499, y: 207 }));
+    // await new Promise(r => setTimeout(r, 800));
+    // await mouse.click(0);
+    // await new Promise(r => setTimeout(r, 1000));
     // 此时跳转到 写长文 页面，出现两个按钮，新的创作、导入链接
 
 
@@ -99,19 +103,25 @@ async function cycle(url) {
 
 async function run() {
 
+
+
+    // await new Promise(r => setTimeout(r, 2000));
+    // await mouse.getPosition().then(position => {
+    //     console.log(position);
+    // });
+    // return
+
+    // Win + Space: switch to Eng
+
     // keyboard.config.autoDelayMs = 100;
-    await new Promise(r => setTimeout(r, 2000));
-    await clipboard.setContent('hello world');
-    await keyboard.pressKey(Key.LeftControl, Key.V); // For Windows and Linux
-    await keyboard.releaseKey(Key.LeftControl, Key.V); // For Windows and Linux
 
-    return
-
-
-
+    
+    
+    
     const urls = require('./url.json')
     console.log(urls.length)
-    // return
+
+    // initial time for me to switch to browser page
     await new Promise(r => setTimeout(r, 2000));
 
     for (let url of urls) {
