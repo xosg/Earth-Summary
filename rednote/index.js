@@ -38,11 +38,12 @@ async function cycle(url) {
     // input the address
     await keyboard.pressKey(Key.LeftControl, Key.V); // For Windows and Linux
     await keyboard.releaseKey(Key.LeftControl, Key.V); // For Windows and Linux
+    await new Promise(r => setTimeout(r, 500));
     // Enter
     await keyboard.pressKey(Key.Enter); // Press Enter
     await keyboard.releaseKey(Key.Enter);
     // wait for page to load
-    await new Promise(r => setTimeout(r, 6_000));
+    await new Promise(r => setTimeout(r, 8_000));
 
     // 导入链接 button
     await mouse.move(straightTo({ x: 493, y: 678 }));
@@ -103,6 +104,7 @@ async function cycle(url) {
 
 async function run() {
 
+    // firstly, I should come to a random browser page
 
 
     // await new Promise(r => setTimeout(r, 2000));
