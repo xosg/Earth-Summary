@@ -27,9 +27,29 @@ const {
 
 
 async function cycle(url) {
-
-
     await new Promise(r => setTimeout(r, 1500));
+
+    await clipboard.setContent(url);
+    await mouse.move(straightTo({ x: 926, y: 53 }));
+    await new Promise(r => setTimeout(r, 500));
+    await mouse.click(0);
+    await keyboard.pressKey(Key.LeftControl, Key.V); // For Windows and Linux
+    await keyboard.releaseKey(Key.LeftControl, Key.V); // For Windows and Linux
+    await new Promise(r => setTimeout(r, 500));
+    // Enter
+    await keyboard.pressKey(Key.Enter); // Press Enter
+    await keyboard.releaseKey(Key.Enter);
+    // waiting the article to load
+    await new Promise(r => setTimeout(r, 10_000));
+    await keyboard.pressKey(Key.LeftControl, Key.A);
+    await keyboard.releaseKey(Key.LeftControl, Key.A);
+    await new Promise(r => setTimeout(r, 1000));
+    await keyboard.pressKey(Key.LeftControl, Key.C);
+    await keyboard.releaseKey(Key.LeftControl, Key.C);
+    const article = await clipboard.getContent()
+    console.log('aritcle length:', article.length)
+    await new Promise(r => setTimeout(r, 1000));
+
     // 浏览器地址栏
     await mouse.move(straightTo({ x: 926, y: 53 }));
     await new Promise(r => setTimeout(r, 500));
@@ -48,7 +68,7 @@ async function cycle(url) {
     // 导入链接 button
     await mouse.move(straightTo({ x: 493, y: 678 }));
     await new Promise(r => setTimeout(r, 500));
-    await mouse.click(0); 
+    await mouse.click(0);
     await new Promise(r => setTimeout(r, 2000));
 
     // the new textarea in the middle of the page
@@ -78,8 +98,17 @@ async function cycle(url) {
     await new Promise(r => setTimeout(r, 1_000));
     await mouse.click(0); // Left click
 
-
     await new Promise(r => setTimeout(r, 10_000));
+    // 输入正文
+    await mouse.move(straightTo({ x: 579, y: 562 }));
+    await new Promise(r => setTimeout(r, 700));
+    await mouse.click(0);
+    await new Promise(r => setTimeout(r, 700));
+    await clipboard.setContent(article.slice(0, 1000))
+    await keyboard.pressKey(Key.LeftControl, Key.V); // For Windows and Linux
+    await keyboard.releaseKey(Key.LeftControl, Key.V); // For Windows and Linux
+    await new Promise(r => setTimeout(r, 700));
+
     // 发布 按钮
     await mouse.move(straightTo({ x: 312, y: 963 }));
     await new Promise(r => setTimeout(r, 500));
@@ -117,9 +146,9 @@ async function run() {
 
     // keyboard.config.autoDelayMs = 100;
 
-    
-    
-    
+
+
+
     const urls = require('./url.json')
     console.log(urls.length)
 
